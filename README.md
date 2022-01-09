@@ -1,2 +1,2 @@
-# dnd
-The preparations and notes for my dnd campaign
+# Dumgeons and Dragons
+The preparations and notes for my dnd campaigns

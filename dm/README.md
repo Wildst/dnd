@@ -1,4 +1,4 @@
-# Dungeom Master
+# Dungeon Master
 Here you can find (some of) my preparations for the campaigns I dm.
 
 If you are a player in one of my campaigns, this could contain spoilers so thread carefully.

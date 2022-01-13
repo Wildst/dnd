@@ -41,6 +41,6 @@ Traveling with [Levi](#levi-einfultipon)
 
 A skilled archer who keeps all information he learns about fauna and flora in a handy book, hearing about the dragon made him curious, so he went over to learn about it and add the information to the book. \
 Tries to solve all problems with logic.\
-Sold his soul to *Zargon the Returner* but wants to earn it back.
+Sold his soul to *[Zargon the Returner](https://forgottenrealms.fandom.com/wiki/Zargon)* but wants to earn it back.
 
 

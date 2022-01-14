@@ -43,6 +43,15 @@ A skilled archer who keeps all information he learns about fauna and flora in a 
 Tries to solve all problems with logic.\
 Sold his soul to *[Zargon the Returner](https://forgottenrealms.fandom.com/wiki/Zargon)* but wants to earn it back.
 
+## Adventure
+### 14/01/2022 - Session 21
+The party awakes and goes to collect some last memories of the dragon, while traveling back to Phandalin they came across some basilisks, but this wasn't a problem at all.
+
+Once back in Phandalin, the people are happy about the dragon being gone and start preparing a party. At this party an archery competition was won by Levi, and the singing/talent competition was Aislings.
+
+At the end of the festivities 2 dragonborns came from neverwinter to accuse them of killing a dragon and try to get them never to do this again. Rohan assures them he'll keep it in mind but will do whatever it takes to defend the common folk.
+
+
 ## [Preparations](Preparations%20home)
 
 

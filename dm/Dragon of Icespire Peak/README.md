@@ -35,7 +35,7 @@ Traveling with [MUSH](#mataku-undulata-strav-hericium).
 A weird being unaware of any social queues, learning how to behave in urban settings.\
 Traveling with [Levi](#levi-einfultipon)
 
-### Rohan Merridon
+### [Rohan Merridon](players%20notes/Rohan%20Merridon.md)
 * Ranger (Hunter)
 * High Elf
 

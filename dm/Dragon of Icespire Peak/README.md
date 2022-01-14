@@ -52,6 +52,6 @@ Once back in Phandalin, the people are happy about the dragon being gone and sta
 At the end of the festivities 2 dragonborns came from neverwinter to accuse them of killing a dragon and try to get them never to do this again. Rohan assures them he'll keep it in mind but will do whatever it takes to defend the common folk.
 
 
-## [Preparations](Preparations%20home)
+## [Preparations](secrets/Preparations%20home)
 
 

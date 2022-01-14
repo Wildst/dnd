@@ -43,6 +43,6 @@ A skilled archer who keeps all information he learns about fauna and flora in a 
 Tries to solve all problems with logic.\
 Sold his soul to *[Zargon the Returner](https://forgottenrealms.fandom.com/wiki/Zargon)* but wants to earn it back.
 
-## [Preparations](Dragon%20of%20Icespire%20Peak/Preparations%20home/)
+## [Preparations](Dragon%20of%20Icespire%20Peak/Preparations%20home.md)
 
 

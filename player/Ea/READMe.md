@@ -23,4 +23,4 @@ While traveling trough the lands, she came across Phandalin, where she thought t
 Little did she know about the events that would arise from taking this decision...
 
 
-[This file](extended%20information.md) contains more in depth questions.
+[This file](extended%20information) contains more in depth questions.

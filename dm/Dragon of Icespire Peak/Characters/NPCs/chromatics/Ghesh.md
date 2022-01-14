@@ -8,7 +8,7 @@
 quiet type, controlled
 
 ## Role
-Ghesh is part of the diplomatic presence of the chromatic dragons in Neverwinter, he is the boss of [Bharash](Bharash.md)
+Ghesh is part of the diplomatic presence of the chromatic dragons in Neverwinter, he is the boss of [Bharash](Bharash)
 
 ## Party relations
 none

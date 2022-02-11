@@ -52,6 +52,23 @@ Once back in Phandalin, the people are happy about the dragon being gone and sta
 At the end of the festivities 2 dragonborns came from neverwinter to accuse them of killing a dragon and try to get them never to do this again. Rohan assures them he'll keep it in mind but will do whatever it takes to defend the common folk.
 
 
+### 21/01/2022 - Session 2.0
+Not much said, starting at lvl 3 - to give a new player the opportunity to learn, and the characters to evolve a little, leveling quicker to get back to lvl 7.
+
+### 04/02/2022 - Session 2.1
+* Started a new adventure.
+* They followed Rivana and explored most of the 1st floor
+* Ended the session opening a jar with butterflies.
+
+### 11/02/2022 - Session 2.2
+* A new player joined us today bringing a lot of energy.
+* Copper, Deimos and Sasha explored a room filled with butterflies and a kitchen with a pantry, finding a couple of magic items (ring of protection, 3 potions and a wand)
+* Copper touched an apple and became yellow, Zima became red
+* A weird creature attacked Deimos, changing targets to Copper, gettin Copper down but killed by Sasha. Copper got a lucky nat20 to get up quickly.
+* Sasha is leading the way to the second floor as we end the session.
+* Thorsten was guarding the front door (AFK).
+
+
 ## [Preparations](secrets/Preparations%20home)
 
 

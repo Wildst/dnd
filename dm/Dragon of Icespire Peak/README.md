@@ -25,13 +25,13 @@ Always on a hunt for knowledge, is followed by (and taking care off) [Copper](#c
 * Hill Dwarf
 
 Once a blacksmith in the army, now roaming the world looking for people to help/protect.\
-Traveling with [Sasha](#sasha-vermya-gadyuka)
+Traveling with [Sasha](#sasha-vermya-gadyuka).
 
 ### Sasha Vremya Gadyuka
 * Warlock/Wizard
 * Human
 
-Looking for signs of a dragon cult, traveling with [Thorsten](#thorsten-theilmier)
+Trying to recruit [Thorsten](#thorsten-theilmier).
 
 
 ## The -resting- party

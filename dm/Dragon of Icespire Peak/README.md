@@ -7,7 +7,34 @@ While doing these quests they learn that some orcs and half-orcs have been drive
 
 It took them hard work and some loss of life but 4 heroes, together with a 5th who helped them along the way managed to survive the threats and get rid of this dragon.
 
-## The party
+## The current party
+### Copper
+* Thief rogue
+* Tiefling
+
+Talkative person following [Deimos](#deimos-virgo) (who she idolises), gets excited easily (for food!).
+
+### Deimos Virgo
+* Wizard/Artificer
+* Looks like an elf
+
+Always on a hunt for knowledge, is followed by (and taking care off) [Copper](#copper).
+
+### Thorsten Theilmier
+* Barbarian
+* Hill Dwarf
+
+Once a blacksmith in the army, now roaming the world looking for people to help/protect.\
+Traveling with [Sasha](#sasha-vermya-gadyuka)
+
+### Sasha Vremya Gadyuka
+* Warlock/Wizard
+* Human
+
+Looking for signs of a dragon cult, traveling with [Thorsten](#thorsten-theilmier)
+
+
+## The -resting- party
 ### Aisling
 * Wild magic sorcerer
 * Half-elf

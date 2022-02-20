@@ -1,5 +1,5 @@
 # Notes for the next session
-starts by entering the second floor
+starts by entering a room.
 
 
 

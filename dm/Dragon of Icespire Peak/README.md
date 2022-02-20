@@ -95,6 +95,12 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 * Sasha is leading the way to the second floor as we end the session.
 * Thorsten was guarding the front door (AFK).
 
+### 18/02/2022 - Session 2.3
+* After checking for more items in the kitchen, they entered the second floor.
+* A giant frog hiding in a rainy room swallows Thorsten but in the end dies anyway.
+* A 3rd floor is discovered where they find the body of Rivana, who suddenly remembers more about her past.
+* After pushing past a lot of hard wind they end up getting a chest out a room that looks a lot bigger when you stand in it.
+* Another door looks very interesting to explore next...
 
 ## [Preparations](secrets/Preparations%20home)
 

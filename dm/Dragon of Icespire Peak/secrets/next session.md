@@ -1,5 +1,13 @@
 # Notes for the next session
-starts by entering a room.
+ended a long rest, what's left:
+- skulls
+- final room
+
+# TODO:
+* magic item found in the final room
+* story after the manor
+* write down knowledge Deimos gathered
+* prepare better
 
 
 

@@ -8,6 +8,12 @@ While doing these quests they learn that some orcs and half-orcs have been drive
 It took them hard work and some loss of life but 4 heroes, together with a 5th who helped them along the way managed to survive the threats and get rid of this dragon.
 
 ## The current party
+### Arkerun
+* Draconic Sorcerer
+* Half-Elf
+
+Started adventuring with his older brother, but some events split them up. Who knows if and when they get reunited.
+
 ### Copper
 * Thief rogue
 * Tiefling
@@ -101,6 +107,11 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 * A 3rd floor is discovered where they find the body of Rivana, who suddenly remembers more about her past.
 * After pushing past a lot of hard wind they end up getting a chest out a room that looks a lot bigger when you stand in it.
 * Another door looks very interesting to explore next...
+
+### 25/02/2022 - Session 2.4
+* They enter a library with a petrified new player character, after some moving towards a different room and smart usage of butterflies he is able to talk and join the group.
+* Exploration makes some people invisible for a while and reveals the secrets of the mind of others but eventualy brings everyone to the 3rd floor where a barbed devil is defending a room filled with very weird items.
+* An interesting magically warded door is the next challenge to be passed ( together with the mystery of the skulls ), these are problems the well rested lvl 5 characters will probably be able to solve tomorrow...
 
 ## [Preparations](secrets/Preparations%20home)
 

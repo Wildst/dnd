@@ -113,6 +113,13 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 * Exploration makes some people invisible for a while and reveals the secrets of the mind of others but eventualy brings everyone to the 3rd floor where a barbed devil is defending a room filled with very weird items.
 * An interesting magically warded door is the next challenge to be passed ( together with the mystery of the skulls ), these are problems the well rested lvl 5 characters will probably be able to solve tomorrow...
 
+### 04/03/2022 - Session 2.5
+* After some waiting, they manage to solve the skull puzzle, and open the final door.
+* A little zombie and a planechange later they manage to get rid of the main magic in the mansion.
+* What to do with all the money and magic items that are found here?
+
+
+
 ## [Preparations](secrets/Preparations%20home)
 
 

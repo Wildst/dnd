@@ -111,12 +111,21 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 ### 25/02/2022 - Session 2.4
 * They enter a library with a petrified new player character, after some moving towards a different room and smart usage of butterflies he is able to talk and join the group.
 * Exploration makes some people invisible for a while and reveals the secrets of the mind of others but eventualy brings everyone to the 3rd floor where a barbed devil is defending a room filled with very weird items.
-* An interesting magically warded door is the next challenge to be passed ( together with the mystery of the skulls ), these are problems the well rested lvl 5 characters will probably be able to solve tomorrow...
+* An interesting magically warded door is the next challenge to be passed ( together with the mystery of the skulls ), these are problems the well rested lvl 5 characters will probably be able to solve **tomorrow**...
 
 ### 04/03/2022 - Session 2.5
 * After some waiting, they manage to solve the skull puzzle, and open the final door.
 * A little zombie and a planechange later they manage to get rid of the main magic in the mansion.
 * What to do with all the money and magic items that are found here?
+
+### 18/03/2022 - Session 2.6
+* shopping and traveling
+
+### 25/03/2022 - Session 2.7
+* They decide to help Delric and manage to get trough the ambush without taking any damage
+* They find the triceratops and get the 2 dangerous people down without too much trouble
+* They are about to take a long rest on the road
+
 
 
 

@@ -9,3 +9,5 @@ Dm's looking for inspiration are welcome to take some parts as they see fit for 
 My first dnd campaign as a DM, preparations are included starting at 7th level, as I ran the first 6 straight from the book.
 
 
+## [Awesomeness in Waterdeep](Awesomeness%20in%20Waterdeep)
+A campaign with some friends.

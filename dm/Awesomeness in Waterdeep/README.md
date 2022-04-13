@@ -18,9 +18,10 @@ The brother of his sister. Makes the world a better and safer place for her sing
 
 ## Their Story
 ### Session 1 - 11/04/2022
-
+**Flamerule 1**\
 After enjoying some food and drinks in the Yawning portal, a couple guys gang up on a half-orc. With some help the half-orcs gets the better of them, when they grab a couple uncouncious mates, they flee as an alarm sounds signaling the arrival of a troll.\
 The barman appreciates the help pushing the troll back where it came from, and a celebrity notices there bravery.\
+**Flamerule 2**\
 Trying to find his missing friend (Floon), they find themselves in a dark alley in the Dock Ward, ready to enter a warehouse Floon's kidnappers are known to be around.
 
 

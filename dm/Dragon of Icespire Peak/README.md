@@ -126,6 +126,11 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 * They find the triceratops and get the 2 dangerous people down without too much trouble
 * They are about to take a long rest on the road
 
+### 15/04/2022 - Session 3.1
+* Some unknown lord teleported everyone and got rid of some of their powers.
+* They got stranded in an unknown city where they walked around a little.
+* After a walk, some shopping, and talking they go back to the initial tavern where a tavern brawl and a troll make them seem kinda  heroic and get the attention of a celebrity who needs their help finding a lost friend.
+
 
 
 

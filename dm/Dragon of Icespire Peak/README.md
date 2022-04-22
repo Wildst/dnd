@@ -39,35 +39,6 @@ Traveling with [Sasha](#sasha-vermya-gadyuka).
 
 Trying to recruit [Thorsten](#thorsten-theilmier).
 
-
-## The -resting- party
-### Aisling
-* Wild magic sorcerer
-* Half-elf
-
-Traveling to learn to get better control of her magic.
-
-### Azalya Solaris
-* Warlock of the fiend
-* Tiefling
-
-Yearns for freedom and adventure, got help of her patron to get the freedom to go on an adventure. But she is not as free as she thinks.
-
-### Levi Einfultipon
-* BattleSmith Artificer
-* Vedalken
-
-Pursuing his thirst for knowledge he became a librarian, but now traveling, looking for real-life knowledge and experiences that he is lacking.
-He does this accompanied with his metal companion Tess.\
-Traveling with [MUSH](#mataku-undulata-strav-hericium).
-
-### Mataku Undulata Strav Hericium
-* Circle of Spores Druid / Grave Domain Cleric
-* Lizardfolk
-
-A weird being unaware of any social queues, learning how to behave in urban settings.\
-Traveling with [Levi](#levi-einfultipon)
-
 ### [Rohan Merridon](players%20notes/Rohan%20Merridon)
 * Ranger (Hunter)
 * High Elf
@@ -130,6 +101,18 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 * Some unknown lord teleported everyone and got rid of some of their powers.
 * They got stranded in an unknown city where they walked around a little.
 * After a walk, some shopping, and talking they go back to the initial tavern where a tavern brawl and a troll make them seem kinda  heroic and get the attention of a celebrity who needs their help finding a lost friend.
+**Marpenoth 5**
+
+### 22/04/2022 - Session 3.2
+* After talking to some people in the Skewered Dragon, they enter a Zhentarim hideout and find dead bodies and some Kenku's inside.
+* They kill them all, but 1 of them is only uncouncious, waking up tied up
+* The kenku spills some information before the city watch shows up:
+  * Xanathar sends its regards
+  * Tie up the pretty boy in the back room!
+  * Follow the yellow signs in the sewers.
+  * No time to loot the place. Just get him to the boss.
+* The city watch gives a couple of words of advice, together with the code legal before sending them on their way.
+* Renear is going to show them an entrance to the sewers to help them get to Floon
 
 
 

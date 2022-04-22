@@ -26,7 +26,7 @@ Talkative person following [Deimos](#deimos-virgo) (who she idolises), gets exci
 
 Always on a hunt for knowledge, is followed by (and taking care off) [Copper](#copper).
 
-### [Thorsten Theilmier](players%20notes/Thorsten%20Theilmier.md)
+### [Thorsten Theilmier](players%20notes/Thorsten%20Theilmier)
 * Barbarian
 * Hill Dwarf
 

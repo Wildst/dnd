@@ -90,7 +90,7 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
 * They are about to take a long rest on the road
 
 ### 15/04/2022 - Session 3.1
-**Marpenoth **\
+**Marpenoth**\
 * Some unknown lord teleported everyone and got rid of some of their powers.
 * They got stranded in an unknown city where they walked around a little.
 * After a walk, some shopping, and talking they go back to the initial tavern where a tavern brawl and a troll make them seem kinda  heroic and get the attention of a celebrity who needs their help finding a lost friend.
@@ -106,7 +106,7 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
   * Follow the yellow signs in the sewers.
   * No time to loot the place. Just get him to the boss.
 * The city watch gives a couple of words of advice, together with the [code legal](handouts/Code%20Legal) before sending them on their way.
-* Renear is going to show them an entrance to the sewers to help them get to Floon
+* Renear is going to show them an entrance to the sewers to help them get to Floon.
 
 
 

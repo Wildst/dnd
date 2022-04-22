@@ -26,7 +26,7 @@ Talkative person following [Deimos](#deimos-virgo) (who she idolises), gets exci
 
 Always on a hunt for knowledge, is followed by (and taking care off) [Copper](#copper).
 
-### Thorsten Theilmier
+### [Thorsten Theilmier](players%20notes/Thorsten%20Theilmier.md)
 * Barbarian
 * Hill Dwarf
 
@@ -38,14 +38,6 @@ Traveling with [Sasha](#sasha-vermya-gadyuka).
 * Human
 
 Trying to recruit [Thorsten](#thorsten-theilmier).
-
-### [Rohan Merridon](players%20notes/Rohan%20Merridon)
-* Ranger (Hunter)
-* High Elf
-
-A skilled archer who keeps all information he learns about fauna and flora in a handy book, hearing about the dragon made him curious, so he went over to learn about it and add the information to the book. \
-Tries to solve all problems with logic.\
-Sold his soul to *[Zargon the Returner](https://forgottenrealms.fandom.com/wiki/Zargon)* but wants to earn it back.
 
 ## Adventure
 ### 14/01/2022 - Session 21
@@ -111,7 +103,7 @@ Not much said, starting at lvl 3 - to give a new player the opportunity to learn
   * Tie up the pretty boy in the back room!
   * Follow the yellow signs in the sewers.
   * No time to loot the place. Just get him to the boss.
-* The city watch gives a couple of words of advice, together with the code legal before sending them on their way.
+* The city watch gives a couple of words of advice, together with the [code legal](handouts/Code%20Legal) before sending them on their way.
 * Renear is going to show them an entrance to the sewers to help them get to Floon
 
 

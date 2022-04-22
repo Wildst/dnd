@@ -27,3 +27,12 @@ Traveling with [MUSH](#mataku-undulata-strav-hericium).
 
 A weird being unaware of any social queues, learning how to behave in urban settings.\
 Traveling with [Levi](#levi-einfultipon)
+
+
+### [Rohan Merridon](players%20notes/Rohan%20Merridon)
+* Ranger (Hunter)
+* High Elf
+
+A skilled archer who keeps all information he learns about fauna and flora in a handy book, hearing about the dragon made him curious, so he went over to learn about it and add the information to the book. \
+Tries to solve all problems with logic.\
+Sold his soul to *[Zargon the Returner](https://forgottenrealms.fandom.com/wiki/Zargon)* but wants to earn it back.

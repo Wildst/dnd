@@ -24,4 +24,10 @@ The barman appreciates the help pushing the troll back where it came from, and a
 **Flamerule 2**\
 Trying to find his missing friend (Floon), they find themselves in a dark alley in the Dock Ward, ready to enter a warehouse Floon's kidnappers are known to be around.
 
+### Session 2 - 25/04/2022
+The first part of the warehouse consists of some dusty rooms with only suspicious tables and a paper bird inside. The big room is more interesting, as it's holding 4 kenku's and a dozen dead people as well ( probable big fight between the Zhentarim and the Xanathar's Guild). After killing most of the kenku's, a loud noise underneath the stairs takes their attention and reveals a big loxodon priest. Hiding in that same room is Renaer, who tells about the legends of a big stash of dragons somewhere inside the city.\
+After some convincing the last kenku repeats some sentences and gives some information about where Floon might be (sewers, following the yellow signs). \
+**Flamerule 3**\
+After a good night rest, the paper bird is used to find the entrance to the sewers and gives more reason to believe that this is where Floon can be found. Who knows what will be hidden in these sewers...
+
 

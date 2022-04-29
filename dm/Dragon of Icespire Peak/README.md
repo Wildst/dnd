@@ -41,7 +41,20 @@ Trying to recruit [Thorsten](#thorsten-theilmier).
 
 ## Adventure
 
+### 29/04/2022 - Session 3.3
+**Marpenoth 5**
+
+* They enter the sewers as Sasha goes missing, noticed when Copper wanted to let her trip.
+* After a weird eye creature that made some noise leak to the streets, a water Genasi entered the sewers to help out for a couple of days.
+* The hideout of the Xanathar's guide is found and there is an interesting discussion as a result of a young goblin guard.
+* A big, and bigger, fight made the recently met Genasi explode so the days were actually closer to hours :(.
+* Left without much resources and HP, the party is taking a long rest to recuperate and get ready to hopefully find and safe Floon (finally).
+
+**Marpenoth 6**
+
 ### 22/04/2022 - Session 3.2
+**Marpenoth 5**
+
 * After talking to some people in the Skewered Dragon, they enter a Zhentarim hideout and find dead bodies and some Kenku's inside.
 * They kill them all, but 1 of them is only uncouncious, waking up tied up
 * The kenku spills some information before the city watch shows up:
@@ -51,6 +64,8 @@ Trying to recruit [Thorsten](#thorsten-theilmier).
   * No time to loot the place. Just get him to the boss.
 * The city watch gives a couple of words of advice, together with the [code legal](handouts/Code%20Legal) before sending them on their way.
 * Renear is going to show them an entrance to the sewers to help them get to Floon.
+
+**Marpenoth 5**
 
 
 ### 15/04/2022 - Session 3.1
@@ -87,7 +102,7 @@ Trying to recruit [Thorsten](#thorsten-theilmier).
 * A 3rd floor is discovered where they find the body of Rivana, who suddenly remembers more about her past.
 * After pushing past a lot of hard wind they end up getting a chest out a room that looks a lot bigger when you stand in it.
 * Another door looks very interesting to explore next...
-* 
+*
 ### 11/02/2022 - Session 2.2
 * A new player joined us today bringing a lot of energy.
 * Copper, Deimos and Sasha explored a room filled with butterflies and a kitchen with a pantry, finding a couple of magic items (ring of protection, 3 potions and a wand)

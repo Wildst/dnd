@@ -1,6 +1,5 @@
 # Notes for the next session
-Ready to start looking for Floon, Renaer will show them to the sewers
-
+Taking a long rest, about to have the last boss fight.
 
 
 # TODO:

@@ -40,6 +40,12 @@ Traveling with [Sasha](#sasha-vermya-gadyuka).
 Trying to recruit [Thorsten](#thorsten-theilmier).
 
 ## Adventure
+### 13/05/2022 - Session 3.4
+**Marpenoth 6**
+
+* The party saves floon but is missing a little on the intelligence part after.
+* They save the intelligence problem and meet a new friend, as well as inspect a building they got from Volo.
+
 
 ### 29/04/2022 - Session 3.3
 **Marpenoth 5**
@@ -48,7 +54,7 @@ Trying to recruit [Thorsten](#thorsten-theilmier).
 * After a weird eye creature that made some noise leak to the streets, a water Genasi entered the sewers to help out for a couple of days.
 * The hideout of the Xanathar's guide is found and there is an interesting discussion as a result of a young goblin guard.
 * A big, and bigger, fight made the recently met Genasi explode so the days were actually closer to hours :(.
-* Left without much resources and HP, the party is taking a long rest to recuperate and get ready to hopefully find and safe Floon (finally).
+* Left without much resources and HP, the party is taking a long rest to recuperate and get ready to hopefully find and save Floon (finally).
 
 **Marpenoth 6**
 

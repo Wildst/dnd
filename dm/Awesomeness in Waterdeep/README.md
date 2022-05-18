@@ -30,4 +30,10 @@ After some convincing the last kenku repeats some sentences and gives some infor
 **Flamerule 3**\
 After a good night rest, the paper bird is used to find the entrance to the sewers and gives more reason to believe that this is where Floon can be found. Who knows what will be hidden in these sewers...
 
+### Session 3 - 16/05/2022
+The sewers hold some dangers, like flying grapefruit with too many eyes to be pretty.\
+After a little more time, a hideout is found in the middle of the sewers. Complicated tactics and different ideas make enemies unsure as they both got kicked down and healed at the same time.
+
+While some are resting, others investigate a couple rooms behind a secret door. Let's see how this goes on...
+
 

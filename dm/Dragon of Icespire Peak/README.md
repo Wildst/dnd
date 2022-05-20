@@ -40,6 +40,11 @@ Traveling with [Sasha](#sasha-vermya-gadyuka).
 Trying to recruit [Thorsten](#thorsten-theilmier).
 
 ## Adventure
+### 20/05/2022 - Session 3.5
+**Marpenoth 7**
+[Volo's Enchiridion](handouts/Waterdeeps%20Enchiridion).
+
+
 ### 13/05/2022 - Session 3.4
 **Marpenoth 6**
 

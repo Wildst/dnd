@@ -42,6 +42,17 @@ Trying to recruit [Thorsten](#thorsten-theilmier).
 ## Adventure
 ### 20/05/2022 - Session 3.5
 **Marpenoth 7**
+* Getting the deed transfered officially
+* Revisiting the Xanathar's hideout
+* Meeting with Vajra Safahr - The Blackstaff
+
+**Marpenoth 8**
+* Some shopping
+* Becoming a real citizen
+* A short visit to Hlam
+
+**Marpenoth 9**
+
 [Volo's Enchiridion](handouts/Waterdeeps%20Enchiridion).
 
 

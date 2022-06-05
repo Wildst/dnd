@@ -37,3 +37,13 @@ After a little more time, a hideout is found in the middle of the sewers. Compli
 While some are resting, others investigate a couple rooms behind a secret door. Let's see how this goes on...
 
 
+### Session 4 - 23/05/2022
+After a little rest, Rendar, Ishi and Owo are ready to go further. A hallway leads them to a bigger room, in the middle of which a muscular half-orc in dingy robes stands with his foot on the chest of a male human with wavy red-blond hair. Fire burns around the orc's clenched fist, and his victim cries and squirms helplessly beneath him.\
+Seated on a raised platform is a nightmarish figure wearing black robes. It has large white eyes and rubbery purple skin, with four tentacles encircling its inhuman mouth. It cradles and gently caresses what looks like a disembodied brain with feet.\
+The nightmarish figure puts down the brain and glides across the room, leaving trough a double door. The half-orc and the brain focus on the new arrivals as a fight breaks out. After the half-orc goes down, the brain forces both Ishi and Rendar down, then it gets slightly bigger and disappears.\
+Owo and Ishi wait until Rendar gets his counciousness back and explore the room a little further. They find what appears to be some kind of treasure chest. Ishi isn't honest about his findings, after which Rendar suddenly starts a fight to the death. \
+
+Rendar is not Rendar anymore.
+
+When the party arrives back in the Yawning Portal, Volo is already waiting, and happy to see Floon back alive. A Tiefling also joins the table, Nowhere followed the party on Volo's instructions to make sure they were not suddenly attacked from the back.\
+As Volo hasn't finished his new book yet, he still is short on the promised cash and decides to reward the adventurers by giving them a remarkable property instead.

@@ -47,3 +47,43 @@ Rendar is not Rendar anymore.
 
 When the party arrives back in the Yawning Portal, Volo is already waiting, and happy to see Floon back alive. A Tiefling also joins the table, Nowhere followed the party on Volo's instructions to make sure they were not suddenly attacked from the back.\
 As Volo hasn't finished his new book yet, he still is short on the promised cash and decides to reward the adventurers by giving them a remarkable property instead.
+
+### Session 5 - 06/06/2022
+**Flamerule 4**\
+After waking up in the new house, Volo takes you to a magistrate to witness the transfer of the deed and make it officially yours.\
+In the Yawning Portal, you talk to Jalester Silvermane, a field agent of the Lords' Alliance, who recruits you to help keep the city save. The first mission: "A gang war is causing unrest throughout the city, We have offered protection to members of the Dungsweepers' Guild, and you have been assigned to protect a group of them. Meet them at the Muleskull Tavern, on Ship Street in the Dock Ward, at six bells and guard them while they work. Do this every day for a tenday."
+
+Going to bed early to be in time the next day.
+
+**Flamerule 5**\
+job day 1: Nothing happens
+They meet 2 neighbours:
+* Carpenter - The bent nail
+* Blacksmith
+Uwu makes contact with a noble: Waipula Amcathra\
+
+
+**Flamerule 6**\
+job day 2: Nothing happens
+They meet more neighbours:
+  * Detective
+  * Library
+  * Herbalist
+A messenger invites everyone to dinner at House Amcathra.
+
+
+**Flamerule 7**\
+job day 3: Dunga Gupta gets a message in his head from the Vajra Safahr - The Blackstaff. She tells them to meet them at once.\
+They talk to the dungsweepers, do only the most necessary and promise to help tomorrow to be able to go to the BlackStaff ASAP.\
+
+At the blackstaff Tower, Vajra Safahr tries to recruit them for an elite private protection faction under her lead.
+
+At House Amcathra everyone tries to put on their best behavior, and it pays off: Waipula gives them 20 Harbor Moons to get the business started.
+
+When they arrive home, their posessions are all just behind the front door, making entering more difficult...
+
+
+
+
+### Session 6 - TBD
+**Flamerule 8**\

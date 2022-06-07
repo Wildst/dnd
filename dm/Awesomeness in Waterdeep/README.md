@@ -55,6 +55,7 @@ In the Yawning Portal, you talk to Jalester Silvermane, a field agent of the Lor
 
 Going to bed early to be in time the next day.
 
+Volo gives a book: [Volo’s Waterdeep Enchiridion](../Dragon%20of%20Icespire%20Peak/handouts/Waterdeeps%20Enchiridion.md)
 **Flamerule 5**\
 job day 1: Nothing happens
 They meet 2 neighbours:

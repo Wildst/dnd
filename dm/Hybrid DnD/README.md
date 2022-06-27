@@ -15,7 +15,7 @@ A tortle you don't want to mess with, he might not be the fastest, but he won't 
 
 ## The adventure
 
-### Session 1 - 24/06/2022
+### Session 1: The adventure begins - 24/06/2022
 **Marpenoth 1**
 
 After a nice meal in the Yawning portal, a bar fight breaks out, most of the party members seem to enjoy this, be it by spectating and looking at the details of the fight, or by using it as a distraction for other plans.\

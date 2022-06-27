@@ -2,8 +2,10 @@
 ## The City
 Waterdeep is, by and large, the most civilized city on the Sword Coast. Yet civilized doesn't mean safe, nor does it mean easy to navigate. Many day-to-day elements of life in Waterdeep that residents take for granted are, to new arrivals, a bevy of wonders and dangers not seen in any other settlement within a thousand miles.
 
+## [Puzzles](Tavern)
+
 ## The Heroes
-### Rendar
+### Rendar - Rip
 A barbarian like no other. Both enraged and using common sense someone to watch out for.
 
 ### Ishi Eudamon
@@ -14,6 +16,13 @@ A cute half-elven girl wearing way too much armor, but don't tell her I said thi
 
 ### Owo
 The brother of his sister. Makes the world a better and safer place for her singing.
+
+### Dunga Gupta
+A priest of a god that no one knows (yet), but considering the amount of effort that's put into it, this will change soon...\
+If it's better this way, that's a question for another day.
+
+### Nowhere
+Even though he's Nowhere, he tends to be everywhere he needs to be. Seeing and feeling more than the common people see and feel... The dice gods seem to be font of him!
 
 
 ## Their Story
@@ -82,11 +91,45 @@ They talk to the dungsweepers, do only the most necessary and promise to help to
 At the blackstaff Tower, Vajra Safahr tries to recruit them for an elite private protection faction under her lead.
 
 At House Amcathra everyone tries to put on their best behavior, and it pays off: Waipula gives them 20 Harbor Moons to get the business started.
+Payback: 15% profits + 10 dragons/ month ( 3 year ), honorable guest, first try for the escape rooms
+
 
 When they arrive home, their posessions are all just behind the front door, making entering more difficult...
 
 
 
 
-### Session 6 - TBD
+### Session 6 - 20/06/2022
+Short investigation of the bags in front of the door.
+
+
 **Flamerule 8**\
+Job day 4
+
+Dunga Gupta gets arrested. Meanwhile the rest of the party goes back to Waipula and gets advice for a solicitor.
+
+They go to bed
+
+**Flamerule 9**\
+Job day 5
+
+Some money making on the way home.
+
+An invitation to the opera comes along by paper bird, Nowhere, Owo, and Shady decide to go while Ishi, Uwu and Dunga Gupta stay home to welcome the solicitor.\
+The solicitor (Gilbert Thistletop) agrees to work with them for 5% of the fees, and 100 dragons to start of with. Uwu and Dunga will make sure a contract is ready to be signed.\
+Owo and Nowhere talk to Mirt at the opera, they get a mission to talk to Maxeene. \
+
+A party name is chosen **Paro Vita**.
+
+**Flamerule 10**\
+Job day 6
+
+A contract is signed with Gilbert to do the expenses for the opening of the tavern.
+
+**Flamerule 11**\
+Job day 7\
+Construction day 1
+
+Some business as usual, while Uwu starts searching for Mirt, he leaves a paper behind telling them to go back.
+
+A flying snake flies trough the window of Owo and Uwu, they are instructed to speak to Davil Starsong at the Yawning Portal.

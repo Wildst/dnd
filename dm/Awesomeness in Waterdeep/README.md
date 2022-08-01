@@ -133,3 +133,35 @@ Construction day 1
 Some business as usual, while Uwu starts searching for Mirt, he leaves a paper behind telling them to go back.
 
 A flying snake flies trough the window of Owo and Uwu, they are instructed to speak to Davil Starsong at the Yawning Portal.
+
+### Session 7 - 18/07/2022
+
+**Flamerule 12**
+Job day 8\
+Construction day 2
+
+
+
+**Flamerule 13**
+Job day 9\
+Construction day 3
+
+Meeting with Poppy Quickstep.
+
+
+**Flamerule 14**
+Job day 10\
+Construction day 4
+
+Trying to find mirth in the late afternoon.
+
+### Session 8 - 01/08/2022
+Some investigating...
+
+Late at night they go back to the docks to find out more about the killings, they manage to witness another kill and kill the drow responsible for it.\
+They hide the bodies and go look for Davil Starsong to notify him about these events, will they stay hidden until he arrives?
+
+
+
+
+

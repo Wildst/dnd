@@ -37,5 +37,5 @@ The sewers continue, altough Bart seems to be caged in somewhere.
 They manage to find Floon without too much trouble, but rescuing him is another story. They bravely fight off an apprentice mage, but a little brain with feet did get the better of Oridan before getting smashed by a big hammer.\
 With a man down, but Floon safe they return to the Yawning Portal where Volo is happy to see his friend. The promised gold is not available, but a more valuable reward is promised: the deed to a building in the North Ward. The party decides to go and inspect the property the next morning.
 
-
+Some information gained from Volothamp: [Volo’s Waterdeep Enchiridion](../Dragon%20of%20Icespire%20Peak/handouts/Waterdeeps%20Enchiridion)
 

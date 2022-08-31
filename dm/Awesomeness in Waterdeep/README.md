@@ -181,3 +181,25 @@ Construction day 7
 They find a shipwreck.
 
 
+### Session 10 - 31/08/2022
+
+**Flamerule 17**
+Construction day 7
+
+They find the dragon, the dragon doesn't seem to be a treath to the city.
+They invite Dillion the captain of the green salt with his crew to the big opening.
+
+After talking to the blackstaff, they arrive back at Puzzles.
+
+They talk to Jalester Silvermane.
+
+A fireball goes off right in front off the door, some investigation lets them known one of the dead guys would've probably been Dalakhar, a spy working for Lord Neverember.\
+The Zhentarim believe he was in possesion of the Stone of Golorr. Davil gives them another quest.
+
+
+
+
+
+**Flamerule 18**
+Construction day 8
+

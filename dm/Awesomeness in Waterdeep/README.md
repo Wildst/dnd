@@ -162,28 +162,28 @@ Late at night they go back to the docks to find out more about the killings, the
 They hide the bodies and go look for Davil Starsong to notify him about these events, will they stay hidden until he arrives?
 
 ### Session 9 - 16/08/2022
-**Flamerule 15**
-Construction day 5
+**Flamerule 15**\
+Construction day 5\
 They talk to Davil Starsong and get the renown for it.
 Because of a mission from force Gray, they go to visit Hlam and get some information.
 
 #### **LVL 3**
 
 
-**Flamerule 16**
-Construction day 6
+**Flamerule 16**\
+Construction day 6\
 Timetravel
 
 
-**Flamerule 17**
-Construction day 7
+**Flamerule 17**\
+Construction day 7\
 
 They find a shipwreck.
 
 
 ### Session 10 - 31/08/2022
 
-**Flamerule 17**
+**Flamerule 17**\
 Construction day 7
 
 They find the dragon, the dragon doesn't seem to be a treath to the city.
@@ -200,6 +200,6 @@ The Zhentarim believe he was in possesion of the Stone of Golorr. Davil gives th
 
 
 
-**Flamerule 18**
+**Flamerule 18**\
 Construction day 8
 

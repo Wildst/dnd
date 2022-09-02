@@ -1,9 +1,13 @@
 # Nullencrad
+[Stores](Locations/Shops)\
+[Potion brewing](Potion%20ingredients)
+
 
 ## Character
 Whoopl
 * Harengon
 * Fighter
+
 
 ## Story
 ### Intro
@@ -41,3 +45,4 @@ Elijah is first in line to the throne, and others know as well.
 
 He want to make a kingdom of piece again! Exactly what we need.
 
+After some shopping and potion brewing we prepare for the party, Elijah will go as *Reginald Murian*

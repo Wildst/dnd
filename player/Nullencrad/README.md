@@ -1,6 +1,7 @@
 # Nullencrad
-[Stores](Locations/Shops)\
-[Potion brewing](Potion%20ingredients)
+[Stores](Shops)\
+[Potion brewing](Potion%20ingredients)\
+[NPC's](npcs)
 
 
 ## Character
@@ -45,4 +46,26 @@ Elijah is first in line to the throne, and others know as well.
 
 He want to make a kingdom of piece again! Exactly what we need.
 
-After some shopping and potion brewing we prepare for the party, Elijah will go as *Reginald Murian*
+After some shopping and potion brewing we prepare for the party, Elijah will go as *Reginald Murian*\
+He tells [Lea](npcs#lea) his name.
+
+During the party, Bart makes things awkward. We go to the hallway to talk where we have to fight off some kind of worm.
+
+One of the worms shoots something in Elijah.
+
+The worms disolve in some red substance when killed. The substance disolves on contact, but a glass vial keeps it intact.
+
+When trying to get the needles out of Elijah, I notice they get bigger. They need to get out as quickly as possible, but without the right tools, it's quite difficult. In the mean time, Bart and Selina get help.
+
+The queen herself arrives and manages to get the needles out.
+
+When we are done cleaning up and join the party again, people are dancing, while Flemming and Alkur are verbally fighting eachother.
+Selina is going to check what they're talking about. Apparently it doesn't work that well to do it stealthy.
+
+After seeing that Lea is occupied and dancing with someone else, Elijah sends a message to Alkur. This makes Alkur come over for a talk.
+
+Alkur doesn't think the bankcrofts are after the attack, as they are missing some employees themselves and have adventurers out looking for them.
+As none of the Mihshah are there, he thinks it's someone else, a new player showing up.
+
+After resting up a little at the bar, we decide it's going to be better to go and sleep, all in the same room. As we almost fell asleep, we see a creature slowly creeping trough the window...
+

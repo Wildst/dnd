@@ -203,3 +203,17 @@ The Zhentarim believe he was in possesion of the Stone of Golorr. Davil gives th
 **Flamerule 18**\
 Construction day 8
 
+# Active Missions
+## Zhentarim (1)
+There's a shop in the Trades ward called Weirdbottle's Concoctions. The gnome who runs it is a friend of ours named Skeemo. He's made some potions of mind reading for a client. Pick up the potions and deliver them to the God Catcher, one of the enormous statues in the Castle Ward. Give the potions to the lady in the purple cloak, and keep the tip.
+
+## Lords' Alliance (1)
+
+
+
+## Force Grey (2)
+
+
+## Harpers (1)
+
+

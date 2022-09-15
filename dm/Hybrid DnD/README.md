@@ -39,3 +39,21 @@ With a man down, but Floon safe they return to the Yawning Portal where Volo is 
 
 Some information gained from Volothamp: [Volo’s Waterdeep Enchiridion](../Dragon%20of%20Icespire%20Peak/handouts/Waterdeeps%20Enchiridion)
 
+### Session 4: 15/09/2022
+**Marpenoth 3**
+After getting a tour of the building, they start getting towards the blackstaff tower, as Cimer got a mysterious message inside his head.
+On the way, they look at the buildings inside their own alley, and meet shortly with the owner of the Book Wyrm's Treasure.
+
+Vajra sends them towards Hlam, the travel towards it is very taxing for some... After reporting back from Hlam, they decide it's more than late enough for a good night rest.
+
+**Marpenoth 4**
+Short acquaintance with the neighbours and a little big of shopping for beds. While Cimer helps the carpenter with the beds, Felbor goes and looks trough the books. The others rest.
+
+
+# Factions
+| Name | Renown (Title) | Current Mission |
+|---|---|---|
+| Force Grey | 1 ( Grey Hand Initiate ) | / |
+
+
+# Trollskull Manor

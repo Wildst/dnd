@@ -12,4 +12,4 @@
 ## The Soulstone - Magic Shop
 * Shopkeeper: Tabaxi *Clycky*
 * Uses mage hand for ***Everything***
-* 
+* Clicky seems to raise the 

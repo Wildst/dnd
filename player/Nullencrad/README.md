@@ -139,5 +139,6 @@ Trying out the whip on this creature, but it seems to be going trough as well. T
 
 Elijah says it's time to stop fighting it, and that it's a riddle to solve. Gear proposes to use holy water, and as we've nothing to lose, trying it might not be the worst idea. I walk up to it, open up the bottle and poor it straight trough the cloak. It was just another waste of valuable resources.
 
-The cloak wants peace, and quiet, but cannot sleep to get that for even a short amount of time. It must be hard to be in a state where you exist at all times, and see and hear all things that exist at the same time. I get that this creature is so tired, and wants the quiet, but killing all other things is not the solution that we can accept. I go up to it closely and look into its faces. It doesn't show it's true face to me, and also can't eat it's own memories. It doesn't even have any memories of it's own.\
+The cloak wants peace, and quiet, but cannot sleep to get that for even a short amount of time. It must be hard to be in a state where you exist at all times, and see and hear all things that exist at the same time. I get that this creature is so tired, and wants the quiet, but killing all other things is not the solution that we can accept. I go up to it closely and look into its faces. It doesn't show it's true face to me, and also can't eat it's own memories. It doesn't even have any memories of it's own.
+
 

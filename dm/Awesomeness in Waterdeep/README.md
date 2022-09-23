@@ -203,3 +203,33 @@ The Zhentarim believe he was in possesion of the Stone of Golorr. Davil gives th
 **Flamerule 18**\
 Construction day 8
 
+### Session 11 - 12/09/2022
+
+**Flamerule 19**\
+Construction day 9
+
+They get and deliver some potions. Afterwards they go to the opera to talk to Renaer, followed by a visit with the blackstaff.
+
+After a short talk with the house ghost everyone goes to bed.
+
+**Flamerule 20**\
+Construction day 10
+They start the day with going back to the blackstaff, hoping she's available now. And she is. She tells them about the day of wonders and the house of inspired hands. After talking with Nim, guided by Valetta, they get the nimblewright detector. They go to Jalester Silvermane, he arranges a meeting with a new griphon the next morning outside the River Gate.
+
+
+
+
+# Active Missions
+## Zhentarim (2)
+
+
+## Lords' Alliance (1)
+Harko Swornhold, an evel adventurer who was exiled three years ago for attempting to bribe a city magistrate, has returned to Waterdeep illegally. We think the Xanathar Guild is using him to incite violence. He was last seen recruiting kenku in the Dock Ward. Find him and quietly put him to the sword.
+
+
+## Force Grey (2)
+
+
+## Harpers (1)
+
+

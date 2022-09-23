@@ -85,20 +85,20 @@ For some reason Clycky raised his hammock, but still gives me more potion ingred
 We're back in the palace, I asked Gear to put a sadle on his cat for me, but he doesn't want to.\
 When the others come back with some dirty dog, Elijah is ready to tell us the masterplan:
 
-    He compliments us for the things we've done. To get back his kingdom, we need things that are very much available for the brave. We need to gather powerfull artifacts. The way he says it, it sounds like a great plan, so let's go! He promises wealth and power to those who help him. And obviously a peacefull kingdom as well.
+*He compliments us for the things we've done. To get back his kingdom, we need things that are very much available for the brave. We need to gather powerfull artifacts. The way he says it, it sounds like a great plan, so let's go! He promises wealth and power to those who help him. And obviously a peacefull kingdom as well.*
 
 Sasha, Gear, and eventually Selena agree to help Elijah as well. Together we for sure can get peace happen!
 We've become more than a group, we now are a **Fellowship**, no idea what that's supposed to mean, but it sounds promising.
 
 Sasha tells her story:
 
-    I was with my family, but the I left my family and went on an adventure with my friend, but then I lost my friend and now I'm here.
+*I was with my family, but the I left my family and went on an adventure with my friend, but then I lost my friend and now I'm here.*
 
 After Elijah asks me, I tell them a bit about my past.
 
 Selena's Story:
 
-    My memory is still a little fogy from a child that sat in my memory, maybe it'll get better in a couple days, leave me alone until then please...
+*My memory is still a little fogy from a child that sat in my memory, maybe it'll get better in a couple days, leave me alone until then please...*
 
 Sasha's dog is called R2 Dog2. There is Snakespear Sasha's snake, Oscar (Elijah's owl). Gears cat 's named Felis. Kermit Tessa is Selena's magic frog.
 
@@ -143,5 +143,10 @@ The cloak wants peace, and quiet, but cannot sleep to get that for even a short 
 
 After a lot of brainbreaking thinking, especially since all of my thinking is feeling off, Sasha casts Darkness on the thing, which does make it disappear, finally. We get 50gp each, 2 healing potions, a teleporting crystal and a cloak of the traveler (sleep halved).
 
-As we get rid of the cloak, a portal opens and we get back to the normal world.
+As we get rid of the cloak, a portal opens and we get back to the normal world.\
+After getting out we scrape ourselves back together with some of Selena's music to guide us. This was exactly what I needed to get my brain back to work the way it's supposed to.\
+Since it's getting late, our next goal is to find a place to spend the night. I propose sleeping in some tavern, but Elijah is worried about another attack, so he's not keen on sleeping in a public place where we don't have any extra protection, and might get others in danger.\
+We decide to get back to the palace and sleep there somewhere. We need a big room where we can strategically fight. But maybe a barn is a better option, as there is a big field around where we can safely fight without disturbing the peace of the palace. We finally decide a big room will be where we'll sleep.\
+Next problem, do we baricade the door and window, or leave our own exits open. Since we think it's going to target Elijah, the plan is for us to stand before him, but I don't like being close to the enemy, so I think I'll stick close to Elijah and only do that if it's actually necessary.
 
+Some kind of red dragon is coming at us at high speeds, we'll see how this goes, I'm ready for it!

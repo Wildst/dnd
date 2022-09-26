@@ -216,6 +216,26 @@ After a short talk with the house ghost everyone goes to bed.
 Construction day 10
 They start the day with going back to the blackstaff, hoping she's available now. And she is. She tells them about the day of wonders and the house of inspired hands. After talking with Nim, guided by Valetta, they get the nimblewright detector. They go to Jalester Silvermane, he arranges a meeting with a new griphon the next morning outside the River Gate.
 
+### Sessino 12 - 26/09/2022
+
+**Flamerule 21**\
+Opening Day
+
+They go to the River gate to ride a griffon. While Ishi flies over the city on the griffon's back, the others go to the yawning portal to speak with Davil. Davil gives them permission to get a cleric to talk with the dead and asks one dead person 5 questions.
+
+Ishi pinpoints 3 locations, the House of Inspired hands, a villa in Saerdoun Street, and a couple of ships in the harbor.
+
+The others get some knowldge from Dalakhar.
+
+They arrive at a similar time at the tavern.
+
+After a short discussion, investigating starts at Gralhund Villa. They hear fighting and decide to inform the city watch. Wether this is a smart decision or not, will become visible later...
+
+Now, it's time for the last preparations for the big opening!
+
+
+
+
 
 
 

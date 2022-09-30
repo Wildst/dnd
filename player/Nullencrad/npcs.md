@@ -62,6 +62,13 @@ Enemies:
 ### Thunderdrifter
 #### Araois
 
+#### Droxis
+* Prince
+* 16
+* hates paperwork, likes killing stuff
+
+
+
 #### Zarre
 * Queen
 * Seems friendly

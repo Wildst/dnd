@@ -150,3 +150,78 @@ We decide to get back to the palace and sleep there somewhere. We need a big roo
 Next problem, do we baricade the door and window, or leave our own exits open. Since we think it's going to target Elijah, the plan is for us to stand before him, but I don't like being close to the enemy, so I think I'll stick close to Elijah and only do that if it's actually necessary.
 
 Some kind of red dragon is coming at us at high speeds, we'll see how this goes, I'm ready for it!
+
+
+### 30/09/2022 - Session 4: The Blood assassins continue!
+#### A late night fight.
+A fight breaks out, as the dragon enters, Sasha bravely stands in it's way. Eventually the dragon manages to push her aside. I don't know how this dragon fits, and has room to fight us, but it does. Sadly, this mighty beast will soon not be anymore. Elijah's enforces his sword with magic and strikes together with a cold breath from Oscar. As Selena keeps insulting the dragon, I make use of the distraction to aim. The string tightens, and when released the arrow flies right over the shoulder of the Dragon. Missing a beast this big in a room this small feels awfull. I'll need to practce more soon.
+
+The dragon turns towards Elijah and attacks. As expected. The creatures attacking us seem all to be focussed on him, and this one is no exception. I'll try to goad the dragon in an attempt to protect him from a distance. The cold out of Oscars mouth really hurts this beast. Looks like we found his weakness. Looks like even Kermit Tessa is trying to help save our soon to be king.
+I ready my bow again, but pull slightly to hard. The string shoots off again. So much for goading the dragon.
+
+Sasha tries talking to the dragon. Apparently he's named Razuk. Be prepared to rest in peace Razuk! That's what's coming for you for attacking us!
+
+The dragon gets another big hit in on Elijah and shouts '*My job is done, goodbye*' while he flies away. A predator killing for more than food alone. One of the only things worse than a normal predator. He'll regret this.\
+It looks like Elijah agrees with my feelings, as he conjures a hand to try and grasp the dragon. Unfortunately the dragon swiftly moves trough. Oscar get's ready to follow the dragon if necessary.
+
+This time, luck is more on my side. I quickly run closer as I put the string back on my bow, put an arrow on it and shoot it. Finally it hits! As I jump right next to the window, he flies away at high speed, but my arrow hits it anyway. Then it goes hiding in the sewers. Let's hope we scared it enough to stay there.
+
+The dragon did not seem to have the red dust that was visible on all other creatures, but still targeted Elijah. Very weird.
+What's also weird, is that Elijah's wounds heal almost immediately. Selena wants to stab him to see how it works, but luckily she gets talked out of it.
+
+*"Do you know the lands of Usmium Prem"*, asks Elijah, *"It's the kingdom north of here. My family once ruled the lands of Usmium Prem, the throne is rightfully my family's, it's rightfully mine. I believe the attacks are coming from the Misha family, who currently reign over those lands. Someone's targeting me, and probably my family. But luckily they're hiding at a safe place. The Misha family is a Yuan-Ti family that worked together with the Bancroft family. The Thunderdrifter family helped me, and now I have to find riches and powerfull items to get my kingdom back. You ask why those vial creatures are attacking me? It's someone powerfull trying to stop us. To reclaim my kingdom I need many things. The first of which is allies, of which I have a few already. Otherwise we need wealth and powerfull items, of which are luckily abundantly available in this world!"*
+We agree to protect Elijah no matter what to help him reach this goal.
+
+**Maandag 11 maart**
+#### An important research goal
+
+After a good night sleep, we go and eat some breakfast. Pancakes witih Carrots, that sounds like the perfect combination. As Sasha keeps trying to convince Elijah to give her the egg, he stays strong and keeps it safe himself.
+
+Elijah enlightens us about some social queues.\
+While we enjoy breakfast, Elijah goes to try and find more about the egg. We try to find out the perfect ratio of carrot to pancake, but can't quite figure it out yet. **This needs more reasearch.**.
+
+After breakfast I go back to the bedroom and brew a potion quickly.
+
+#### A new friend
+*"Unlike most other eggs, this egg does not need a certain amount of time to hatch. It needs some sort of trigger in order to hatch."* says Elijah, *"Look."*. As he lays the egg on the table and pulls out his sword and makes a symbol in the air. The sword starts vibrating and some runes light up as he speaks some arcane words *"Ana Fatha Aghata"* and touches the egg. A protective magical force appears around it. It didn't protect the egg though, as it breaks open and a slightly bigger version of Silky comes out and wraps itself around Elijah. Hopefully this works as the protective barrier it looks like. Elijah can use some protection.
+
+While talking to his protector (Who's now listening to the name **Benji**), some kind of shadowhead comes out of the creature and looks at it's conversation partner while repeating it's own name.
+
+#### What's hiding in the sewers?
+We decide to go towards the sewers to try and get rid of the source of the evil attacking Elijah. It should be pretty big and pretty strong, but we can handle it.
+
+Sasha and Selena lead the way.
+We enter the sewers. The roof is covered in bloody veins.\
+After pulling the shortest straw, I enter the sewers first. Encouraged by the fact that Elijah believes in me, I set a good pace.
+
+They stop me and tell me to go quietly, I try to do so, but apparently Selena doesn't see how good I am, as she tackles me and throws both of us into the water.
+Now Sasha goes first.
+The veins are spreading onto the walls as well. We should be carefull not to touch those, as they work as some kind of alarm.
+
+After walking for a little while, we come across some cocons that contain juice that eats your arms.
+When we go further, we see some worms (as we fought a couple of days ago) growing inside.
+
+Investigation reveals a weird lady being on the left, Selena and Sasha are acting as if this is our target and she's really dangerous. At the right there are some creatures, of which the mighty Dragon. They appear to be performing some ritual around a big cocon.
+
+We decide to go to the left, after walking for a little bit, we enter a big room. In the room there are 8 cocons and the weird creature in the middle, hanging down from tentacles of blood.
+
+We spread out a little and get ready to fight. I'm glad Elijah's standing close to me. The preparation worked, I took my time to aim and hit it!
+
+The creature awakes and sends a pulse trough it's veins towards me. Luckily I jump just in time to avoid it. Apparently the creature is called **Ofamire**.
+
+Luck was in the favor of the good ones, as usual and we manage to kill it without any casualties. Once Ofamire is gone, everything starts withering down.
+
+#### A noble talk.
+
+Now that some evil is dealt with, we're going to look for more magic items and riches to have more resources to make peace.
+
+We request an audience with the king (altough waiting in front of his room until he would come back from the bathroom does sound like a more effective and faster plan). The servant said the king isn't home, so we ask an audience with the prince instead.
+
+We talk to the prince, who talks about going to the endless abysses, and says there are tons of powerfull things to be found there. He pays us for getting rid of the evil. It always pays off doing the good thing.
+
+**Lvl 5**
+
+#### Preparing for Peace
+
+**Dinsdag 12 maart**
+I start the day by making some potions and distributing them along.

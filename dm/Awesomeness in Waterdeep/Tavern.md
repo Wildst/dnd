@@ -10,3 +10,4 @@
 * Waipula gets first access to the VIP room
 
 
+

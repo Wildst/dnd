@@ -6,7 +6,7 @@
 * Idris (3sp)
 
 * 1 uur
-* Sleight of Hand + herbalism kit prof.
+* Sleight of Hand +2 (herbalism kit).
 
 
 

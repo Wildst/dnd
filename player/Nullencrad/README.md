@@ -225,3 +225,26 @@ We talk to the prince, who talks about going to the endless abysses, and says th
 
 **Dinsdag 12 maart**
 I start the day by making some potions and distributing them along.
+
+It's now time to find more PP (Peace Power). What would be our plan now... After looking in the library for a moment to find a way around poison damage, we decide to adventure into the world to find PP and riches.
+
+Elijah explains how he has a spell where he can ask a question, and then gets a feeling wether it's good or not.
+Now the question is what question we should ask. We find a nice spot to sit and ask following question: *"With regards to reuniting Kermit Tessa with her original tree, is going to the Feywild Tower the right course of action?"*. The universe answered no &#128532;.
+
+Let's go to The Mystic Emporium and talk to Ladra to see if she has any ideas. As all the candles are out already, I can't go and blow them out &#128544;. Anyway, Elijah asks her about a way to help Kermit Tessa and she says we should go to Astabar. The lake at the capital has some information if we can find the one giving the information. Some inhabitants of the lake might now something. **Be carefull not to fall in holes, you might not be able to get out of them**.
+
+**Woensdag 13 maart**
+We arrive in Bloshire, the capital of Astabar in the middle of the night. There are a couple ways to get to the lake, on foot it'd take 2 days, by boat only 1, and with horses we could get there in 17 hours.
+
+**Remind Elijah to learn a spell to make horses out of thin air**
+
+We would like to take a boat, but they don't leave for a couple more hours. So I decide to brew some healing potions during that time, while Selena and Elijah go and explore the city. We will meet again at the point where we split when they feel I'll be done brewing potions.\
+After a couple minutes of potion brewing some guards come and tell me I should do that in a tavern, and they're very nice to bring me to a tavern to do so, the Blue Oyster Bar.
+
+After my first potion is finished, Selena and Elijah arrive in that bar as well, they guessed the time perfectly. They talk some more while I start on potion nr 2. Elijah is so kind to get me a carrot juice while I'm brewing. The PP is spreading.
+
+The barman is very friendly, he talks very promising about the lake, it's supposed to be beautifull, especially when the moon is full. He says there are special fish in there, fish that tend to walk on the lands as well. He sells us a hangover potion, they cure us from hangovers and the comming jetlag, but we'll be sleeping afterwards.
+
+We cannot tell anyone who Elijah is, especially Yuan-Ti. A king shouldn't enter another kings territory without being announced. We should use his other name *Reginald Murian* again just to be safe.
+
+# 07/10/2022 Session 5: The Lake and its mysteries.

@@ -133,3 +133,123 @@ Construction day 1
 Some business as usual, while Uwu starts searching for Mirt, he leaves a paper behind telling them to go back.
 
 A flying snake flies trough the window of Owo and Uwu, they are instructed to speak to Davil Starsong at the Yawning Portal.
+
+### Session 7 - 18/07/2022
+
+**Flamerule 12**
+Job day 8\
+Construction day 2
+
+
+
+**Flamerule 13**
+Job day 9\
+Construction day 3
+
+Meeting with Poppy Quickstep.
+
+
+**Flamerule 14**
+Job day 10\
+Construction day 4
+
+Trying to find mirth in the late afternoon.
+
+### Session 8 - 01/08/2022
+Some investigating...
+
+Late at night they go back to the docks to find out more about the killings, they manage to witness another kill and kill the drow responsible for it.\
+They hide the bodies and go look for Davil Starsong to notify him about these events, will they stay hidden until he arrives?
+
+### Session 9 - 16/08/2022
+**Flamerule 15**\
+Construction day 5\
+They talk to Davil Starsong and get the renown for it.
+Because of a mission from force Gray, they go to visit Hlam and get some information.
+
+#### **LVL 3**
+
+
+**Flamerule 16**\
+Construction day 6\
+Timetravel
+
+
+**Flamerule 17**\
+Construction day 7\
+
+They find a shipwreck.
+
+
+### Session 10 - 31/08/2022
+
+**Flamerule 17**\
+Construction day 7
+
+They find the dragon, the dragon doesn't seem to be a treath to the city.
+They invite Dillion the captain of the green salt with his crew to the big opening.
+
+After talking to the blackstaff, they arrive back at Puzzles.
+
+They talk to Jalester Silvermane.
+
+A fireball goes off right in front off the door, some investigation lets them known one of the dead guys would've probably been Dalakhar, a spy working for Lord Neverember.\
+The Zhentarim believe he was in possesion of the Stone of Golorr. Davil gives them another quest.
+
+
+
+
+
+**Flamerule 18**\
+Construction day 8
+
+### Session 11 - 12/09/2022
+
+**Flamerule 19**\
+Construction day 9
+
+They get and deliver some potions. Afterwards they go to the opera to talk to Renaer, followed by a visit with the blackstaff.
+
+After a short talk with the house ghost everyone goes to bed.
+
+**Flamerule 20**\
+Construction day 10
+They start the day with going back to the blackstaff, hoping she's available now. And she is. She tells them about the day of wonders and the house of inspired hands. After talking with Nim, guided by Valetta, they get the nimblewright detector. They go to Jalester Silvermane, he arranges a meeting with a new griphon the next morning outside the River Gate.
+
+### Sessino 12 - 26/09/2022
+
+**Flamerule 21**\
+Opening Day
+
+They go to the River gate to ride a griffon. While Ishi flies over the city on the griffon's back, the others go to the yawning portal to speak with Davil. Davil gives them permission to get a cleric to talk with the dead and asks one dead person 5 questions.
+
+Ishi pinpoints 3 locations, the House of Inspired hands, a villa in Saerdoun Street, and a couple of ships in the harbor.
+
+The others get some knowldge from Dalakhar.
+
+They arrive at a similar time at the tavern.
+
+After a short discussion, investigating starts at Gralhund Villa. They hear fighting and decide to inform the city watch. Wether this is a smart decision or not, will become visible later...
+
+Now, it's time for the last preparations for the big opening!
+
+
+
+
+
+
+
+# Active Missions
+## Zhentarim (2)
+
+
+## Lords' Alliance (1)
+Harko Swornhold, an evel adventurer who was exiled three years ago for attempting to bribe a city magistrate, has returned to Waterdeep illegally. We think the Xanathar Guild is using him to incite violence. He was last seen recruiting kenku in the Dock Ward. Find him and quietly put him to the sword.
+
+
+## Force Grey (2)
+
+
+## Harpers (1)
+
+

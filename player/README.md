@@ -4,3 +4,6 @@ This is where I will put some notes I took as a player in someone elses campaign
 ## Characters
 [Ea](Ea) - Tiefling Draconic Sorcerer
 
+[Nullencrad](Nullencrad) - Some big campaign
+
+

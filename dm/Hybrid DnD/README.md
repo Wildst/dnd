@@ -1,6 +1,9 @@
 # Hybrid DnD
 ## The Party
 
+### Arpeggio
+This sorcerer uses his nimbleness to complete his objective, whether that be healing, or pure destruction, that depends...
+
 ### Bart
 This bard always makes sure he gets rewarded for his performances, sometimes even without the audience noticing.
 
@@ -23,3 +26,34 @@ Just when it looks like the commotion is over, the bar empties out quicker than 
 In what condition do you think they will find him? If they find him at all...
 
 
+### Session 2: Nonotes
+
+**Marpenoth 2**
+
+### Session 3: 12/08/2022
+**Marpenoth 2**
+The sewers continue, altough Bart seems to be caged in somewhere.
+
+They manage to find Floon without too much trouble, but rescuing him is another story. They bravely fight off an apprentice mage, but a little brain with feet did get the better of Oridan before getting smashed by a big hammer.\
+With a man down, but Floon safe they return to the Yawning Portal where Volo is happy to see his friend. The promised gold is not available, but a more valuable reward is promised: the deed to a building in the North Ward. The party decides to go and inspect the property the next morning.
+
+Some information gained from Volothamp: [Volo’s Waterdeep Enchiridion](../Dragon%20of%20Icespire%20Peak/handouts/Waterdeeps%20Enchiridion)
+
+### Session 4: 15/09/2022
+**Marpenoth 3**
+After getting a tour of the building, they start getting towards the blackstaff tower, as Cimer got a mysterious message inside his head.
+On the way, they look at the buildings inside their own alley, and meet shortly with the owner of the Book Wyrm's Treasure.
+
+Vajra sends them towards Hlam, the travel towards it is very taxing for some... After reporting back from Hlam, they decide it's more than late enough for a good night rest.
+
+**Marpenoth 4**
+Short acquaintance with the neighbours and a little big of shopping for beds. While Cimer helps the carpenter with the beds, Felbor goes and looks trough the books. The others rest.
+
+
+# Factions
+| Name | Renown (Title) | Current Mission |
+|---|---|---|
+| Force Grey | 1 ( Grey Hand Initiate ) | / |
+
+
+# Trollskull Manor

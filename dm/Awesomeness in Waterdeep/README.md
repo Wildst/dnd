@@ -234,9 +234,19 @@ After a short discussion, investigating starts at Gralhund Villa. They hear figh
 Now, it's time for the last preparations for the big opening!
 
 
+### Session 13 - 10/10/2022
 
+Bar opening: Bouncer *Patrin Clethtinthaillor*, Barmaid *Andry Underfoot*.
+Tavern opening night.
 
+**Flamerule 22**\
+Saeth Cromley and Barnibus Blastwind come to share some information.\
+They go to the yawning portal, where they find out Davil has been arrested, after shouting and looking for the Black Snake, they get taken by the city guard and taken towards. After an investigation, they get escorted to a bigger room, where they talk to the blackstaff, who made it so they are able to walk freely again.
 
+They go leave a message to Mirt.
+After some investigating, they find a small room where they think Harko has been.
+
+A trip to the opera is ongoing.
 
 
 # Active Missions

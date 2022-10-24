@@ -197,9 +197,6 @@ A fireball goes off right in front off the door, some investigation lets them kn
 The Zhentarim believe he was in possesion of the Stone of Golorr. Davil gives them another quest.
 
 
-
-
-
 **Flamerule 18**\
 Construction day 8
 
@@ -233,7 +230,6 @@ After a short discussion, investigating starts at Gralhund Villa. They hear figh
 
 Now, it's time for the last preparations for the big opening!
 
-
 ### Session 13 - 10/10/2022
 
 Bar opening: Bouncer *Patrin Clethtinthaillor*, Barmaid *Andry Underfoot*.
@@ -248,14 +244,22 @@ After some investigating, they find a small room where they think Harko has been
 
 A trip to the opera is ongoing.
 
+### Session 14 - 24/10/2022
+
+After talking to Mirt, they go back to the dock ward to try and find Harko Swornhold, which they eventually do, and get rid of it quietly.
+
+A weird guy is standing in front of the door looking at the stones. After some issues and talks, they decide that he might have some use and will talk to him again later.
+
+**Flamerule 23**\
+
+A short meeting with Jalester in the Yawning portal and an agreement with **Tezcatlipoca** to adventure together is made.
+
 
 # Active Missions
 ## Zhentarim (2)
 
 
-## Lords' Alliance (1)
-Harko Swornhold, an evel adventurer who was exiled three years ago for attempting to bribe a city magistrate, has returned to Waterdeep illegally. We think the Xanathar Guild is using him to incite violence. He was last seen recruiting kenku in the Dock Ward. Find him and quietly put him to the sword.
-
+## Lords' Alliance (2)
 
 ## Force Grey (2)
 

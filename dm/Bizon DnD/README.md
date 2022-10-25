@@ -21,3 +21,12 @@ Glad there is no need for a set up romance, the heroes get their reward coin by 
 When the party arrives at a canion, the sun is almost ready to set. They arrived just in time to find 2 dwarves (Dazzlyn and Norbus) sitting outside eating their dinner rations. The dwarves are happy to see them and tell them they are scared of a weird slimy creature inside and ask to make sure everything is safe inside, they offer a couple of [Sending Stones](http://dnd5e.wikidot.com/wondrous-items:sending-stones) if they do so. Bravely the heroes agree to help and approach the creatures. A conversation with these things does not seem to be a feasible option, as they get attacked immediately. The good hearted Grotilda did stand a little too close trying to go for a peacefull approach and lost her life because of it. May she rest in peace. Apart from having hard hits, the creatures are also hard to hit correctly, a couple of good ideas only increased the danger they faced. Altough it was a close call for Hlin as well, there were no more casualties.
 
 What more secrets are hiding inside those ruins, and what will they do with the body of their (recently met) companion?
+
+### 25/10/2022 - Session 2
+After a good night rest, they want to leave the dwarves alone as a couple roaming orcs are trying to make the excavation site their new home. Some sleepiness and talking later, getting rid of them seems to be the only viable option after which they go back to Phandalin.
+
+### Butterskull Ranch
+After collecting the promised reward and spending the night in/close by the village, a couple more quests are available on the quest board. This time, it seems like checking out a farm a couple of days away seems to be troubled by orcs. This quest, combined with the earlier encounter with orcs makes it an easy decision to go check that out first.\
+Along the way they pick up a couple of horses and a cow, all branded with *BAK*. The farm itself has seen better times, some of the fences are broken, the barn and smithy are burned down, rotting corpses are spread over the land, and after taking a quick look inside, their are 4 fresh orc corpses to be found inside the kitchen. Whoops.
+
+How many more are hiding inside, and will the ranch owner be found alive?

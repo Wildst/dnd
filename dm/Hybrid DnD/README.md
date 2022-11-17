@@ -59,11 +59,20 @@ In the morning the get a visit from a woman and a a dwarf, the woman invites the
 In the morning the expedition goes towards the dwarven ruins, where they encounter a couple slimey creatures and find some gems.
 
 
+### Session 6: 27/10/2022
+Kinda TPK, whoopsie.
+
+
+### Session 7: 17/11/2022
+
+**Hammer 20**
+The day starts with a mysterious explosion, it seems like a nimblewright trew a fireball. Some investigating later, a nimblewright is detected at Gralhund Villa, where a fight is ongoing.
+
+
 # Factions
 | Name | Renown (Title) | Current Mission |
 |---|---|---|
-| Force Grey | 1 ( Grey Hand Initiate ) | / |
-| Order of the Gauntlet | 0 () | Stop a fight before it happens |
+
 
 
 

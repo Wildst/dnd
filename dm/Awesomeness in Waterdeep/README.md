@@ -254,6 +254,12 @@ A weird guy is standing in front of the door looking at the stones. After some i
 
 A short meeting with Jalester in the Yawning portal and an agreement with **Tezcatlipoca** to adventure together is made.
 
+### Session 15 - 07/11/2022
+nononotes
+
+### Session 16 - 22/11/2022
+A cult is discovered inside the mausoleum. A tip sends them towards a windmill where they fight off some cultists as weird devils fly away with a little package...
+
 
 # Active Missions
 ## Zhentarim (2)

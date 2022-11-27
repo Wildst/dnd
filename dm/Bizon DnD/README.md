@@ -25,8 +25,17 @@ What more secrets are hiding inside those ruins, and what will they do with the 
 ### 25/10/2022 - Session 2
 After a good night rest, they want to leave the dwarves alone as a couple roaming orcs are trying to make the excavation site their new home. Some sleepiness and talking later, getting rid of them seems to be the only viable option after which they go back to Phandalin.
 
-### Butterskull Ranch
+**Lvl 3**
+
+#### Butterskull Ranch
 After collecting the promised reward and spending the night in/close by the village, a couple more quests are available on the quest board. This time, it seems like checking out a farm a couple of days away seems to be troubled by orcs. This quest, combined with the earlier encounter with orcs makes it an easy decision to go check that out first.\
 Along the way they pick up a couple of horses and a cow, all branded with *BAK*. The farm itself has seen better times, some of the fences are broken, the barn and smithy are burned down, rotting corpses are spread over the land, and after taking a quick look inside, their are 4 fresh orc corpses to be found inside the kitchen. Whoops.
 
 How many more are hiding inside, and will the ranch owner be found alive?
+
+### 27/11/2022 - Session 3
+
+In a room close by, a new ally is discovered. He helps clearing the Ranch of orcs, while his hands are sticky to some objects.\
+After finding Big Al in his cellar, he is happy to be freed and gratefull that Petunia the cow is safe again.
+
+Leaving the ranch, they decide to investigate the Shrine close to Connyberry. It may not have been a surprise to some, but it was currently occupied with a tribe of orcs, accompanied by 2 ogres. This was simply too much for our 2 heroes, so the newfound ally proved himself very usefull getting away from that place quickly.

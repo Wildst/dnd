@@ -50,10 +50,30 @@ Vajra sends them towards Hlam, the travel towards it is very taxing for some... 
 Short acquaintance with the neighbours and a little big of shopping for beds. While Cimer helps the carpenter with the beds, Felbor goes and looks trough the books. The others rest.
 
 
+### Session 5: 06/10/2022
+
+**Marpenoth 5**
+In the morning the get a visit from a woman and a a dwarf, the woman invites them to fight evil and become part of the Order of the Gauntlet. The dwarf hires them to make an old ruined temple in the mountainside safe. In the evening, both Cimer and Felbor get sworn in to the Order, where they get their first mission.
+
+**Marpenoth 6**
+In the morning the expedition goes towards the dwarven ruins, where they encounter a couple slimey creatures and find some gems.
+
+
+### Session 6: 27/10/2022
+Kinda TPK, whoopsie.
+
+
+### Session 7: 17/11/2022
+
+**Hammer 20**
+The day starts with a mysterious explosion, it seems like a nimblewright trew a fireball. Some investigating later, a nimblewright is detected at Gralhund Villa, where a fight is ongoing.
+
+
 # Factions
 | Name | Renown (Title) | Current Mission |
 |---|---|---|
-| Force Grey | 1 ( Grey Hand Initiate ) | / |
+
+
 
 
 # Trollskull Manor

@@ -69,6 +69,14 @@ Kinda TPK, whoopsie.
 The day starts with a mysterious explosion, it seems like a nimblewright trew a fireball. Some investigating later, a nimblewright is detected at Gralhund Villa, where a fight is ongoing.
 
 
+### Session 8: 13/12/2022
+When they finally get into the villa, a city watch force arrives and takes over the investigative fight inside. Before everything is resolved, a nimblewright is spotted running away from the house.\
+Quick as it is, a familiar is the only one able to follow it into a blizzard to an old windmill, converted into a shady butcher shop in the field ward.
+
+**Hammer 21**\
+We leave the party just when they start a fight with the nimblewright in an ally not far from the old windmill.
+
+
 # Factions
 | Name | Renown (Title) | Current Mission |
 |---|---|---|

@@ -30,3 +30,4 @@ After collecting the promised reward and spending the night in/close by the vill
 Along the way they pick up a couple of horses and a cow, all branded with *BAK*. The farm itself has seen better times, some of the fences are broken, the barn and smithy are burned down, rotting corpses are spread over the land, and after taking a quick look inside, their are 4 fresh orc corpses to be found inside the kitchen. Whoops.
 
 How many more are hiding inside, and will the ranch owner be found alive?
+

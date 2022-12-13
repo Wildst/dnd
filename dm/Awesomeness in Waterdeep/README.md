@@ -260,6 +260,9 @@ nononotes
 ### Session 16 - 22/11/2022
 A cult is discovered inside the mausoleum. A tip sends them towards a windmill where they fight off some cultists as weird devils fly away with a little package...
 
+### Session 17 - 05/12/2022
+
+
 
 # Active Missions
 ## Zhentarim (2)
@@ -273,3 +276,44 @@ A cult is discovered inside the mausoleum. A tip sends them towards a windmill w
 ## Harpers (1)
 
 
+
+
+# The Chase
+| creature | distance | dashes | effect |
+| ---- |---| --- | --- |
+OwO | 0 | 6 | 3
+UwU | 20 | 6 | 20
+imp 1
+Ishi | 20 | 3 |
+imp 2
+imp 3
+Nowhere | 30 | 10 | 16
+Tezcatlipoca | 50 | 7 | 6
+- |
+Devil 2 | 0 | 4 | 11
+Bodyguard |
+Devil 3 | 0 | 4 | 2
+
+# spacer
+# spacer
+
+# spacer
+# spacer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# spacer
+# spacer

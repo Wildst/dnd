@@ -1,10 +1,51 @@
 # Dragon of Icespire Peak
 
 
-The cards:
+## The cards
 * All types of magic
 * happens AFTER it's fully out of the deck, the card vaporizes in the air, then the effect happens
 * After the effect, the cards get back
+* In the world, there is a deck that works in a similar way, the deck of many things
+* Six types of powerfull cards:
+  * White: Elysium
+  * Gold: Material value
+  * Red/Black/Orange: Realm off volcanos
+  * Red: The flames of Avernus = Hell
+  * Blue: Deep dark oceans
+  * Purple: A world that even the bones do not know off
+* The deck itself can grow stronger
 
+
+## The book
+The type of creatures that
+
+## Horse stuff
+
+| thing | price |
+| --- | --- |
+| Warhorse| 400 gp |
+| military sadle | 20 gp |
+| Bit | 2gp |
+| saddlebags | 4 gp |
+| chain mail armor | 300 gp |
+
+
+## Rank
+Iron:
+* Toegang tot silver missions
+* 2-4 minor healing potions for each mission
+* Toegang tot beginner training
+  * ranged weapons
+  * tracking
+  * weapons
+  * cooking
+  * survival
+  * combat
+  * herbalism
+
+
+## TODO:
+* Buy a chicken at Manual
+* Go learn stuff
 
 

@@ -262,7 +262,15 @@ A cult is discovered inside the mausoleum. A tip sends them towards a windmill w
 
 ### Session 17 - 05/12/2022
 
-
+### Session 18 - 19/12/2022
+- found the stony stone of Golor
+- stone speaks with Ishi
+Hij kan nu 3x een lvl 5 spell/ dag
+- got arrested again.
+- saved by a guy saying we should flee the city.
+- he blamed us for killing guards n escaping cells
+- we did not flee city, stayed in cells en told guards n judge what happened.
+- nu komt het vonnis nog....
 
 # Active Missions
 ## Zhentarim (2)

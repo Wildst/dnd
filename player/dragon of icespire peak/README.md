@@ -48,3 +48,18 @@ Iron:
 * Go learn stuff
 
 
+## Schip:
+15 AC
+250 HP - min 15 dmg
+
+## Balista
+- 1 action to load/aim
+- 1 action to fire
++6 to hit
+3d10 dmg
+
+15 AC
+50 HP
+50 HP
+
+

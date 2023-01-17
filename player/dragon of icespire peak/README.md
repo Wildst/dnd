@@ -48,7 +48,6 @@ Iron:
 * Buy a chicken at Manual
 * Go learn stuff
 
-
 ## Schip:
 15 AC
 250 HP - min 15 dmg

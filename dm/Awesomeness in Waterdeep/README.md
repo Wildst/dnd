@@ -261,6 +261,7 @@ nononotes
 A cult is discovered inside the mausoleum. A tip sends them towards a windmill where they fight off some cultists as weird devils fly away with a little package...
 
 ### Session 17 - 05/12/2022
+nononotes
 
 ### Session 18 - 19/12/2022
 - found the stony stone of Golor
@@ -271,6 +272,19 @@ Hij kan nu 3x een lvl 5 spell/ dag
 - he blamed us for killing guards n escaping cells
 - we did not flee city, stayed in cells en told guards n judge what happened.
 - nu komt het vonnis nog....
+
+### Session 19 - 17/01/2022
+**Flamerule 24**\
+* Nowhere works
+
+Some bad sleep, followed by questional desicions.
+
+Ishi goes and sleeps in the yawning portal.
+
+**Flamerule 25**\
+* Nowhere works
+A new day arrives
+
 
 # Active Missions
 ## Zhentarim (2)

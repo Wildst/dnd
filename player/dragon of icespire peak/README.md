@@ -45,7 +45,6 @@ Iron:
 
 
 ## TODO:
-* Buy a chicken at Manual
 * Go learn stuff
 
 ## Schip:

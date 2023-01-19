@@ -76,6 +76,17 @@ Quick as it is, a familiar is the only one able to follow it into a blizzard to 
 **Hammer 21**\
 We leave the party just when they start a fight with the nimblewright in an ally not far from the old windmill.
 
+### Session 9: 19/01/2022
+After defeating the nimblewright, they gather the promised reward, get some warm clothes and other necessities and do some things their guilds asked for.
+They look in the dock ward, and spend the night in the City of the Dead.
+
+**Hammer 22**\
+They sleep, look in the dock ward, and spend the night in the City of the Dead.
+
+**Hammer 23**\
+They sleep, look in the dock ward, and FIND Harko in an alley in the Dock Ward.
+
+
 
 # Factions
 | Name | Renown (Title) | Current Mission |

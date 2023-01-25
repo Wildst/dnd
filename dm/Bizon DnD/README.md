@@ -39,3 +39,8 @@ In a room close by, a new ally is discovered. He helps clearing the Ranch of orc
 After finding Big Al in his cellar, he is happy to be freed and gratefull that Petunia the cow is safe again.
 
 Leaving the ranch, they decide to investigate the Shrine close to Connyberry. It may not have been a surprise to some, but it was currently occupied with a tribe of orcs, accompanied by 2 ogres. This was simply too much for our 2 heroes, so the newfound ally proved himself very usefull getting away from that place quickly.
+
+### 25/01/2022 - Kinda session 4
+Karerarera, Rismareth en Andre vertrekken naar Loggers' camp om goederen af te leveren.\
+Onderweg stoppen ze in Falcon's Hunting Lodge. Falcon is bezord over orcs die het bos onveilig maken. Bij het onderzoeken van het gebouw en de vreemde everzwijnen errond, wordt karerarera aangevallen door bloedzuigende vleermuizen. Rismareth laat ze allemaal in slaap vallen, inclusief Karerarera.\
+Wat er gebeurt nadat ze dit gevaar hebben afgeweerd wordt volgende keer duidelijk.

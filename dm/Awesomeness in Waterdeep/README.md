@@ -285,6 +285,11 @@ Ishi goes and sleeps in the yawning portal.
 * Nowhere works
 A new day arrives
 
+### Session 20 - 30/01/2022
+**Flamerule 26**\
+* Nowhere works
+* They find the entrance and 3 keys of which they think might be good enough to enter the vault.
+* Esvele agrees to accompany them into the vault and share (30%) the earnings.
 
 # Active Missions
 ## Zhentarim (2)

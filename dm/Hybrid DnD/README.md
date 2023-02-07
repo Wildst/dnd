@@ -87,6 +87,15 @@ They sleep, look in the dock ward, and spend the night in the City of the Dead.
 They sleep, look in the dock ward, and FIND Harko in an alley in the Dock Ward.
 
 
+### Session 10: 07/02/2022
+They get rid of Harko, and go Patrol the city of the dead.
+
+**Hammer 24**
+They sleep, and go to the windmill, not much to see on the top floor.
+They go and visit the butchery and go inside.
+
+
+
 
 # Factions
 | Name | Renown (Title) | Current Mission |

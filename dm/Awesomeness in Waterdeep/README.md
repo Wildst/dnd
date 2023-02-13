@@ -291,6 +291,13 @@ A new day arrives
 * They find the entrance and 3 keys of which they think might be good enough to enter the vault.
 * Esvele agrees to accompany them into the vault and share (30%) the earnings.
 
+
+### Session 21 - 13/02/2022
+They enter the vault, pass by a beautifull painting, fall down somewhere, kill some pudding and enter a stairway down with some treasure...
+
+
+
+
 # Active Missions
 ## Zhentarim (2)
 

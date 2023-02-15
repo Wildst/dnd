@@ -44,3 +44,6 @@ Leaving the ranch, they decide to investigate the Shrine close to Connyberry. It
 Karerarera, Rismareth en Andre vertrekken naar Loggers' camp om goederen af te leveren.\
 Onderweg stoppen ze in Falcon's Hunting Lodge. Falcon is bezord over orcs die het bos onveilig maken. Bij het onderzoeken van het gebouw en de vreemde everzwijnen errond, wordt karerarera aangevallen door bloedzuigende vleermuizen. Rismareth laat ze allemaal in slaap vallen, inclusief Karerarera.\
 Wat er gebeurt nadat ze dit gevaar hebben afgeweerd wordt volgende keer duidelijk.
+
+### 15/02/2022 - Session 5
+Andre, Rismareth en Padrick vertrekken van Falcon's Hunting Lodge en komen aan in Loggers' camp. Na een paar vreemde monsters te verslaan vinden ze Tibor Wester. Een totem die onheil brengt wordt op een vlot in brand gestoken.

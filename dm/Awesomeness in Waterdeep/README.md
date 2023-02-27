@@ -295,7 +295,11 @@ A new day arrives
 ### Session 21 - 13/02/2022
 They enter the vault, pass by a beautifull painting, fall down somewhere, kill some pudding and enter a stairway down with some treasure...
 
+### Session 22 - 27/02/2022
+They find the 500k dragons guarded by a gem eating dragon. Eventually they get the current open lord involved and decide to do get him involved.\
+They leave the vault with 10k each, and do some shopping.
 
+**LVL 5**
 
 
 # Active Missions

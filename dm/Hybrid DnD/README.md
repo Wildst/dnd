@@ -94,6 +94,14 @@ They get rid of Harko, and go Patrol the city of the dead.
 They sleep, and go to the windmill, not much to see on the top floor.
 They go and visit the butchery and go inside.
 
+### Session 11: 28/02/2022
+The butcher gets beaten up, then he decides to talk in order to save his life, but he still gets killed.
+
+They go and patrol in the city of the dead for the 4th night in a row.
+
+**Hammer25**
+They sleep and go look for Cuttle's Meat Pies. Right when they find it, they get surprised by a couple bugbears, that don't seem to be that big of a problem.
+
 
 
 

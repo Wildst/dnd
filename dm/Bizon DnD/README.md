@@ -47,3 +47,6 @@ Wat er gebeurt nadat ze dit gevaar hebben afgeweerd wordt volgende keer duidelij
 
 ### 15/02/2022 - Session 5
 Andre, Rismareth en Padrick vertrekken van Falcon's Hunting Lodge en komen aan in Loggers' camp. Na een paar vreemde monsters te verslaan vinden ze Tibor Wester. Een totem die onheil brengt wordt op een vlot in brand gestoken.
+
+### 19/03/2022 - Session 6
+Karerarera verschijnt nogmaals, samen met Twinkle Twinkle little star. Andre, Rismareth en Padrick denken samen met deze hulp toch de Woodland Manse aan te kunnen, maar dit blijkt nog steeds vrij lastig te zijn.

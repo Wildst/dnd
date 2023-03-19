@@ -95,7 +95,7 @@ They sleep, and go to the windmill, not much to see on the top floor.
 They go and visit the butchery and go inside.
 
 ### Session 11: 28/02/2022
-The butcher gets beaten up, then he decides to talk in order to save his life, but he still gets killed.
+The butcher gets beaten up, then he decides to talk in order to save his life, blut he still gets killed.
 
 They go and patrol in the city of the dead for the 4th night in a row.
 

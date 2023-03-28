@@ -102,14 +102,7 @@ They go and patrol in the city of the dead for the 4th night in a row.
 **Hammer25**
 They sleep and go look for Cuttle's Meat Pies. Right when they find it, they get surprised by a couple bugbears, that don't seem to be that big of a problem.
 
+### Session 12: 28/03/2022
+They talk to the shopkeeper, who doesn't know anything, but see someone flee the scene on the roof, they follow him into a theater, where they see him slip a package to someone who dissapears, but they do manage to get through without any charges.
 
 
-
-# Factions
-| Name | Renown (Title) | Current Mission |
-|---|---|---|
-
-
-
-
-# Trollskull Manor

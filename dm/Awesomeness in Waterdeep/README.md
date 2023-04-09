@@ -273,7 +273,7 @@ Hij kan nu 3x een lvl 5 spell/ dag
 - we did not flee city, stayed in cells en told guards n judge what happened.
 - nu komt het vonnis nog....
 
-### Session 19 - 17/01/2022
+### Session 19 - 17/01/2023
 **Flamerule 24**\
 * Nowhere works
 
@@ -285,73 +285,34 @@ Ishi goes and sleeps in the yawning portal.
 * Nowhere works
 A new day arrives
 
-### Session 20 - 30/01/2022
+### Session 20 - 30/01/2023
 **Flamerule 26**\
 * Nowhere works
 * They find the entrance and 3 keys of which they think might be good enough to enter the vault.
 * Esvele agrees to accompany them into the vault and share (30%) the earnings.
 
 
-### Session 21 - 13/02/2022
+### Session 21 - 13/02/2023
 They enter the vault, pass by a beautifull painting, fall down somewhere, kill some pudding and enter a stairway down with some treasure...
 
-### Session 22 - 27/02/2022
+### Session 22 - 27/02/2023
 They find the 500k dragons guarded by a gem eating dragon. Eventually they get the current open lord involved and decide to do get him involved.\
 They leave the vault with 10k each, and do some shopping.
 
 **LVL 5**
 
+### Session 23 - 27/03/2023
 
-# Active Missions
-## Zhentarim (2)
+**Flamerule 27-29**
+Shopping &stuff
 
-
-## Lords' Alliance (2)
-
-## Force Grey (2)
-
-
-## Harpers (1)
+**Flamerule 30**
+They talk a little, go into the pit, and explore a little bit of the top floor of the massive dungeon.
 
 
-
-
-# The Chase
-| creature | distance | dashes | effect |
-| ---- |---| --- | --- |
-OwO | 0 | 6 | 3
-UwU | 20 | 6 | 20
-imp 1
-Ishi | 20 | 3 |
-imp 2
-imp 3
-Nowhere | 30 | 10 | 16
-Tezcatlipoca | 50 | 7 | 6
-- |
-Devil 2 | 0 | 4 | 11
-Bodyguard |
-Devil 3 | 0 | 4 | 2
-
-# spacer
-# spacer
-
-# spacer
-# spacer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# spacer
-# spacer
+## Party fund
+| | |
+---
+dragons | 511
+shards | 5
+nibs | 5

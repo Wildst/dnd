@@ -105,4 +105,11 @@ They sleep and go look for Cuttle's Meat Pies. Right when they find it, they get
 ### Session 12: 28/03/2022
 They talk to the shopkeeper, who doesn't know anything, but see someone flee the scene on the roof, they follow him into a theater, where they see him slip a package to someone who dissapears, but they do manage to get through without any charges.
 
+### Session 13: 18/04/2022
+They try to gather some information, and get a name.\
+They enter a magic shop on the way to the city of the dead.\
+They find some skeletons(*night 4*)
 
+**Hammer 26**
+They sleep, and go look for Agorn in the dock ward. In the dock ward, they find his old house and another lead.\
+They do find Esloon Bezant, and are starting a fight.

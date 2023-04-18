@@ -310,9 +310,17 @@ Shopping &stuff
 They talk a little, go into the pit, and explore a little bit of the top floor of the massive dungeon.
 
 
+### Session 24 - 17/04/2023
+
+Another adventurer who claims to know thezcatlipoca joins the party.
+Some more exploring and stuff...
+
+
+
+
 ## Party fund
 | | |
 ---
-dragons | 511
+dragons | 1011
 shards | 5
 nibs | 5

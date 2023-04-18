@@ -35,30 +35,41 @@ Iron:
 * Toegang tot silver missions
 * 2-4 minor healing potions for each mission
 * Toegang tot beginner training
-  * ranged weapons
-  * tracking
-  * weapons
-  * cooking
-  * survival
-  * combat
-  * herbalism
+  * ranged weapons 0/5
+  * tracking: 0/5
+  * weapons: 0/5
+  * cooking: 0/5
+  * survival: 2/5
+  * combat: 0/5
+  * herbalism: 0/5
+
+
+## Guild:
+Mira Jane
+
+Yolanda the musician
+
+## Quests:
+**Escort to Phandalin**
+**Monster in Neverwinter Wood**
+**DragonSlayer Sword**
+
+
+## People
+name | role
+---
+Amalgea | boat lady
+Mira Jane | Guild lady
+
 
 
 ## TODO:
 * Go learn stuff
+* Deliver the book
 
-## Schip:
-15 AC
-250 HP - min 15 dmg
-
-## Balista
-- 1 action to load/aim
-- 1 action to fire
-+6 to hit
-3d10 dmg
-
-15 AC
-50 HP
+## Car Stats
+AC 13
 50 HP
 
 
+`

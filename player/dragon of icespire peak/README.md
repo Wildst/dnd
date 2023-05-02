@@ -60,6 +60,8 @@ name | role
 ---
 Amalgea | boat lady
 Mira Jane | Guild lady
+Yolanda | cool strong bard
+
 
 
 

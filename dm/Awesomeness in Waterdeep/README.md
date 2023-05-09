@@ -315,9 +315,12 @@ They talk a little, go into the pit, and explore a little bit of the top floor o
 Another adventurer who claims to know thezcatlipoca joins the party.
 Some more exploring and stuff...
 
-### Session 25 - 24/04/2023 
+### Session 25 - 24/04/2023
 
 More exploring and a close call for itzpapalotlsomethingsomething.
+
+### Session 26 - 09/05/2023
+Some more exploring, they go trough a long hallway lined with statues, at the end there is a big room with a double door and a room and see/hear a Manticore....
 
 
 ## Party fund

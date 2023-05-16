@@ -113,3 +113,8 @@ They find some skeletons(*night 4*)
 **Hammer 26**
 They sleep, and go look for Agorn in the dock ward. In the dock ward, they find his old house and another lead.\
 They do find Esloon Bezant, and are starting a fight.
+
+### Session 14: 16/05/2023
+They fight, and the warlock freezes to death.
+
+

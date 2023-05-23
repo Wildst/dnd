@@ -322,6 +322,8 @@ More exploring and a close call for itzpapalotlsomethingsomething.
 ### Session 26 - 09/05/2023
 Some more exploring, they go trough a long hallway lined with statues, at the end there is a big room with a double door and a room and see/hear a Manticore....
 
+### Session 27 - 23/05/2023
+Some exploring, and then another stupid death. Some fun and they are in another room. They did use the key.
 
 ## Party fund
 | | |

@@ -325,6 +325,12 @@ Some more exploring, they go trough a long hallway lined with statues, at the en
 ### Session 27 - 23/05/2023
 Some exploring, and then another stupid death. Some fun and they are in another room. They did use the key.
 
+### Session 28 - 05/06/2023
+A long rest
+**Eleasis 1**
+They explore some more, and find a room where some questions are answered.
+
+
 ## Party fund
 | | |
 ---

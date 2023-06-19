@@ -330,6 +330,8 @@ A long rest
 **Eleasis 1**
 They explore some more, and find a room where some questions are answered.
 
+### Session 29 - 19/06/2023
+More exploring, some npc's they took along the way to and in the second floor. **LVL 6**
 
 ## Party fund
 | | |

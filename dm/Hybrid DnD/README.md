@@ -117,4 +117,7 @@ They do find Esloon Bezant, and are starting a fight.
 ### Session 14: 16/05/2023
 They fight, and the warlock freezes to death.
 
-
+### Session 15: 27/06/2023
+A new compagnon arrives with a weird stone that leads them to the crypts of house Brandath.\
+Inside they find the entrance to the vault of dragons, and a couple hands guarding a headband.\
+The run around in the city of the dead(*night 5*).

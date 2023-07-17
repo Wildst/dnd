@@ -336,6 +336,11 @@ More exploring, some npc's they took along the way to and in the second floor. *
 ### Session 30 - 03/07/2023
 More exploring, Uwu got blinded.
 
+### Session 31 - 17/07/2023
+Some exploring, their companion dies and they recover the map.\
+A couple friendly adventurers are helping out.
+
+
 
 ## Party fund
 | | |

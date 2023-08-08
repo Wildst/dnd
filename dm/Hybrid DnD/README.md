@@ -121,3 +121,12 @@ They fight, and the warlock freezes to death.
 A new compagnon arrives with a weird stone that leads them to the crypts of house Brandath.\
 Inside they find the entrance to the vault of dragons, and a couple hands guarding a headband.\
 The run around in the city of the dead(*night 5*).
+
+### Session 16: 18/07/2023
+Trying to find the keys. Running around in the city of the dead(*night 6*)\
+They get an audience with the Open Lord and gather a gift and a promise for a promise.
+
+### Session 17: 08/08/2023
+They enter the Vault, fight a wall, and some black goo coming out of another wall.
+A long rest prepares them to go on looking for the treasure.
+

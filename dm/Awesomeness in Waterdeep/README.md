@@ -339,7 +339,7 @@ More exploring, Uwu got blinded.
 ### Session 31 - 17/07/2023
 Some exploring, their companion dies and they recover the map.\
 A couple friendly adventurers are helping out.
-
+A
 
 
 ## Party fund

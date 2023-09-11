@@ -337,9 +337,15 @@ More exploring, some npc's they took along the way to and in the second floor. *
 More exploring, Uwu got blinded.
 
 ### Session 31 - 17/07/2023
+**Eleasis 2**
 Some exploring, their companion dies and they recover the map.\
 A couple friendly adventurers are helping out.
-A
+
+### Session 32 - 28/08/2023
+A little more exploring, and some strange creatures.
+
+### Session 33
+Some exploring and talking to a mage.
 
 
 ## Party fund

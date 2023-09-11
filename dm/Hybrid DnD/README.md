@@ -128,5 +128,4 @@ They get an audience with the Open Lord and gather a gift and a promise for a pr
 
 ### Session 17: 08/08/2023
 They enter the Vault, fight a wall, and some black goo coming out of another wall.
-A long rest prepares them to go on looking for the treasure.
-
+A long rest prepares them to go on looking for the treasu

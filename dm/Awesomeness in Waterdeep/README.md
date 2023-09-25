@@ -344,8 +344,13 @@ A couple friendly adventurers are helping out.
 ### Session 32 - 28/08/2023
 A little more exploring, and some strange creatures.
 
-### Session 33
+### Session 33 - 11/09/2023
 Some exploring and talking to a mage.
+
+### Session 34 - 25/09/2023
+Some spiders that consider themselves to be big pass are in the way.
+1/2 heads gathered.
+
 
 
 ## Party fund

@@ -348,8 +348,12 @@ A little more exploring, and some strange creatures.
 Some exploring and talking to a mage.
 
 ### Session 34 - 25/09/2023
-Some spiders that consider themselves to be big pass are in the way.
+Some spiders that consider themselves to be big are in the way.
 1/2 heads gathered.
+
+### Session 35 - 09/10/2023
+They talk to Rizzeryl, try to fight, dash away and go down to hide inside Skullport.
+**LVL 7**
 
 
 

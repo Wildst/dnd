@@ -355,6 +355,9 @@ Some spiders that consider themselves to be big are in the way.
 They talk to Rizzeryl, try to fight, dash away and go down to hide inside Skullport.
 **LVL 7**
 
+## Session 36 - 23/10/2023
+Some exploring, weird tentacle creatures and an outpost with weird guards and some spider friends.\
+Another mage with annoying mist makes it time to retreat and regroup
 
 
 ## Party fund

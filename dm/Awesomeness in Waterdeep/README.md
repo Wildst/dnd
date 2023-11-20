@@ -359,6 +359,11 @@ They talk to Rizzeryl, try to fight, dash away and go down to hide inside Skullp
 Some exploring, weird tentacle creatures and an outpost with weird guards and some spider friends.\
 Another mage with annoying mist makes it time to retreat and regroup
 
+## Session 37 - 06/11/2023
+Another attempt at overpowering the mage results in 2 friendly deaths.
+
+## Session 38 - 20/11/2023
+Some more killing, and some new friends.
 
 ## Party fund
 | | |

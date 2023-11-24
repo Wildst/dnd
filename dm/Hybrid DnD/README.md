@@ -102,14 +102,35 @@ They go and patrol in the city of the dead for the 4th night in a row.
 **Hammer25**
 They sleep and go look for Cuttle's Meat Pies. Right when they find it, they get surprised by a couple bugbears, that don't seem to be that big of a problem.
 
+### Session 12: 28/03/2022
+They talk to the shopkeeper, who doesn't know anything, but see someone flee the scene on the roof, they follow him into a theater, where they see him slip a package to someone who dissapears, but they do manage to get through without any charges.
+
+### Session 13: 18/04/2022
+They try to gather some information, and get a name.\
+They enter a magic shop on the way to the city of the dead.\
+They find some skeletons(*night 4*)
+
+**Hammer 26**
+They sleep, and go look for Agorn in the dock ward. In the dock ward, they find his old house and another lead.\
+They do find Esloon Bezant, and are starting a fight.
+
+### Session 14: 16/05/2023
+They fight, and the warlock freezes to death.
+
+### Session 15: 27/06/2023
+A new compagnon arrives with a weird stone that leads them to the crypts of house Brandath.\
+Inside they find the entrance to the vault of dragons, and a couple hands guarding a headband.\
+The run around in the city of the dead(*night 5*).
+
+### Session 16: 18/07/2023
+Trying to find the keys. Running around in the city of the dead(*night 6*)\
+They get an audience with the Open Lord and gather a gift and a promise for a promise.
+
+### Session 17: 08/08/2023
+They enter the Vault, fight a wall, and some black goo coming out of another wall.
+A long rest prepares them to go on looking for the treasure
+
+### Session 18: 19/09/2023
+They find the treasure, where they manage to allow the current Open Lord to come and gather all the gold to distribute it back to the people of the city. They go talk to the Open Lord.
 
 
-
-# Factions
-| Name | Renown (Title) | Current Mission |
-|---|---|---|
-
-
-
-
-# Trollskull Manor

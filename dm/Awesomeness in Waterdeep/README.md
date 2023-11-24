@@ -310,9 +310,64 @@ Shopping &stuff
 They talk a little, go into the pit, and explore a little bit of the top floor of the massive dungeon.
 
 
+### Session 24 - 17/04/2023
+
+Another adventurer who claims to know thezcatlipoca joins the party.
+Some more exploring and stuff...
+
+### Session 25 - 24/04/2023
+
+More exploring and a close call for itzpapalotlsomethingsomething.
+
+### Session 26 - 09/05/2023
+Some more exploring, they go trough a long hallway lined with statues, at the end there is a big room with a double door and a room and see/hear a Manticore....
+
+### Session 27 - 23/05/2023
+Some exploring, and then another stupid death. Some fun and they are in another room. They did use the key.
+
+### Session 28 - 05/06/2023
+A long rest
+**Eleasis 1**
+They explore some more, and find a room where some questions are answered.
+
+### Session 29 - 19/06/2023
+More exploring, some npc's they took along the way to and in the second floor. **LVL 6**
+
+### Session 30 - 03/07/2023
+More exploring, Uwu got blinded.
+
+### Session 31 - 17/07/2023
+**Eleasis 2**
+Some exploring, their companion dies and they recover the map.\
+A couple friendly adventurers are helping out.
+
+### Session 32 - 28/08/2023
+A little more exploring, and some strange creatures.
+
+### Session 33 - 11/09/2023
+Some exploring and talking to a mage.
+
+### Session 34 - 25/09/2023
+Some spiders that consider themselves to be big are in the way.
+1/2 heads gathered.
+
+### Session 35 - 09/10/2023
+They talk to Rizzeryl, try to fight, dash away and go down to hide inside Skullport.
+**LVL 7**
+
+## Session 36 - 23/10/2023
+Some exploring, weird tentacle creatures and an outpost with weird guards and some spider friends.\
+Another mage with annoying mist makes it time to retreat and regroup
+
+## Session 37 - 06/11/2023
+Another attempt at overpowering the mage results in 2 friendly deaths.
+
+## Session 38 - 20/11/2023
+Some more killing, and some new friends.
+
 ## Party fund
 | | |
 ---
-dragons | 511
+dragons | 1011
 shards | 5
 nibs | 5

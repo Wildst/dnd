@@ -14,6 +14,8 @@
   * Blue: Deep dark oceans
   * Purple: A world that even the bones do not know off
 * The deck itself can grow stronger
+* The deck grew stronger
+
 
 
 ## The book
@@ -34,15 +36,8 @@ Iron:
   * herbalism: 0/5
 
 
-## Guild:
-Mira Jane
-
-Yolanda the musician
-
 ## Quests:
-**Escort to Phandalin**
-**Monster in Neverwinter Wood**
-**DragonSlayer Sword**
+
 
 
 ## People
@@ -57,9 +52,8 @@ Balvador | Pirate guy
 
 ## TODO:
 * Go learn stuff
-* Deliver the book
 
-## Car Stats
+## Cart Stats
 AC 13
 50 HP
 

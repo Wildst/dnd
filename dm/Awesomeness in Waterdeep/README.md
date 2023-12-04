@@ -365,6 +365,9 @@ Another attempt at overpowering the mage results in 2 friendly deaths.
 ## Session 38 - 20/11/2023
 Some more killing, and some new friends.
 
+## Session 39 - 04/12/2023
+Some more killing, and an underground river. Up or down the party goes, next time we'll find out what follows.
+
 ## Party fund
 | | |
 ---

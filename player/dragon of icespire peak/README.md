@@ -9,25 +9,17 @@
 * Six types of powerfull cards:
   * White: Elysium
   * Gold: Material value
-  * Red/Black/Orange: Realm off volcanos
+  * Red/Black/Orange: Realm off volcanos, seems to only teleport people above 50%
   * Red: The flames of Avernus = Hell
   * Blue: Deep dark oceans
   * Purple: A world that even the bones do not know off
 * The deck itself can grow stronger
+* The deck grew stronger
+
 
 
 ## The book
 The type of creatures that
-
-## Horse stuff
-
-| thing | price |
-| --- | --- |
-| Warhorse| 400 gp |
-| military sadle | 20 gp |
-| Bit | 2gp |
-| saddlebags | 4 gp |
-| chain mail armor | 300 gp |
 
 
 ## Rank
@@ -44,15 +36,8 @@ Iron:
   * herbalism: 0/5
 
 
-## Guild:
-Mira Jane
-
-Yolanda the musician
-
 ## Quests:
-**Escort to Phandalin**
-**Monster in Neverwinter Wood**
-**DragonSlayer Sword**
+
 
 
 ## People
@@ -60,16 +45,19 @@ name | role
 ---
 Amalgea | boat lady
 Mira Jane | Guild lady
+Yolanda | cool strong bard
+Balvador | Pirate guy
 
 
 
 ## TODO:
 * Go learn stuff
-* Deliver the book
 
-## Car Stats
+## Cart Stats
 AC 13
 50 HP
 
 
-`
+## Books:
+* Stephen Bling: The fog
+* GRR Walking: The band of the bracelet

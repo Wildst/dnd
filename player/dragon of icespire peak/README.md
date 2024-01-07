@@ -15,6 +15,14 @@
   * Purple: A world that even the bones do not know off
 * The deck itself can grow stronger
 * The deck grew stronger
+* The deck grows stronger again and affects stasis people
+* Cards pulled third time:
+  * White
+  * Blue
+  *
+
+
+
 
 
 
@@ -37,6 +45,8 @@ Iron:
 
 
 ## Quests:
+Find Beeps items: Behind the rack with silverware under the mountain
+
 
 
 

@@ -368,9 +368,25 @@ Some more killing, and some new friends.
 ## Session 39 - 04/12/2023
 Some more killing, and an underground river. Up or down the party goes, next time we'll find out what follows.
 
+## Session 40 - 18/12/2023
+Some exploring, not much killing, a new friend...
+A big city
+
+## Session 41 - 15/01/2023
+Exploring in the city.
+
+
+
 ## Party fund
 | | |
 ---
 dragons | 1011
 shards | 5
 nibs | 5
+
+
+## Rumors
+**Immortal Insanity**
+The Mad Mage of Undermountain has destroyed himself or been destroyed many times, but his demise is always short-lived. Folk say the dungeon cannot exist without him, and so it magically re-creates the archmage whenever he meets his end within its curmbling halls. Each time Halaster returns, less of his sanity remains.
+
+

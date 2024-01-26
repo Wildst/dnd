@@ -40,13 +40,22 @@ After finding Big Al in his cellar, he is happy to be freed and gratefull that P
 
 Leaving the ranch, they decide to investigate the Shrine close to Connyberry. It may not have been a surprise to some, but it was currently occupied with a tribe of orcs, accompanied by 2 ogres. This was simply too much for our 2 heroes, so the newfound ally proved himself very usefull getting away from that place quickly.
 
-### 25/01/2022 - Kinda session 4
+### 25/01/2023 - Kinda session 4
 Karerarera, Rismareth en Andre vertrekken naar Loggers' camp om goederen af te leveren.\
 Onderweg stoppen ze in Falcon's Hunting Lodge. Falcon is bezord over orcs die het bos onveilig maken. Bij het onderzoeken van het gebouw en de vreemde everzwijnen errond, wordt karerarera aangevallen door bloedzuigende vleermuizen. Rismareth laat ze allemaal in slaap vallen, inclusief Karerarera.\
 Wat er gebeurt nadat ze dit gevaar hebben afgeweerd wordt volgende keer duidelijk.
 
-### 15/02/2022 - Session 5
+### 15/02/2023 - Session 5
 Andre, Rismareth en Padrick vertrekken van Falcon's Hunting Lodge en komen aan in Loggers' camp. Na een paar vreemde monsters te verslaan vinden ze Tibor Wester. Een totem die onheil brengt wordt op een vlot in brand gestoken.
 
-### 19/03/2022 - Session 6
+### 19/03/2023 - Session 6
 Karerarera verschijnt nogmaals, samen met Twinkle Twinkle little star. Andre, Rismareth en Padrick denken samen met deze hulp toch de Woodland Manse aan te kunnen, maar dit blijkt nog steeds vrij lastig te zijn.
+
+### 25/01/2024 - Session 7 (Finally)
+Na even op krachten te komen in een boom, bedenken Andre, Rismareth en Karerarera een plan:\
+Ze omringen het gebouw met brandstapels (de ene meer functioneel dan de andere), en proberen daarmee de bewoners uit te roken.\
+Vrij snel is een zwerm vleermuisachtige wezens te zien die van de bovenverdieping wegvliegt, en een Orc die eens aan de deur komt kijken waar alle lawaai, warmte en rook vandaan komt. De Orc heeft er duidelijk niet veel zin in en gaat snel terug naar binnen.\
+Karerarera zijn geduld raakt op en neemt de koevoet in eigen handen. De deur (opmerking: de deur is niet op slot) openbreken lukt uiteindelijk (als de Orcs zelf de deur opendoen), waarna er een gevecht uitbreekt dat de ongeduldige held fataal wordt.\
+Net als ook Andre en Rismareth het moeilijk krijgen, is er plots een grote Kokkin die een dringende vraag stelt aan de overige Orcs (die duidelijk vinden dat het niet het moment is om te praten): "PUDDING!".\
+Aangezien de reactie niet bepaald vriendelijk is, barst Helga (de Kokkin) uit in een woedeaanval, waarna Rismareth gebruik maakt van de afleiding om het gevecht te winnen.\
+Na het gebouw te verkennen en een kaart en een paar boeken te stelen besluiten ze om te gaan slapen in een aantal bedden in het gebouw.

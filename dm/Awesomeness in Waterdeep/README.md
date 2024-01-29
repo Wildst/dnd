@@ -369,18 +369,23 @@ Some more killing, and some new friends.
 Some more killing, and an underground river. Up or down the party goes, next time we'll find out what follows.
 
 ## Session 40 - 18/12/2023
+**Eleasis 3**
 Some exploring, not much killing, a new friend...
 A big city
 
-## Session 41 - 15/01/2023
+## Session 41 - 15/01/2024
 Exploring in the city.
 
+## Session 42 - 29/01/2024
+Buying some maps, making a deal for Geldrax, and other general city stuff.
+**Eleasis 4**
+A couple shadows make them take a short rest quickly.
 
 
 ## Party fund
 | | |
 ---
-dragons | 1011
+dragons | 11
 shards | 5
 nibs | 5
 

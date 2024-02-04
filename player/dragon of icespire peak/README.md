@@ -19,8 +19,12 @@
 * Cards pulled third time:
   * White
   * Blue
+  * Purple
+  * Gold
   *
 
+Last card:
+    sunrise
 
 
 

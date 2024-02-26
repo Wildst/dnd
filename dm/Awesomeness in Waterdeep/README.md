@@ -379,7 +379,7 @@ Exploring in the city.
 ## Session 42 - 29/01/2024
 Buying some maps:\
 * []()
-* [Level 3: Sargouth Level](player%20maps/Level%203%20Sargouth%20Level)\
+* [Level 3: Sargauth Level](player%20maps/Level%203%20Sargauth%20Level.jpg)\
 * [Level 4: Twisted Caverns]
 * [Level 5: Wyllowwood]
 Making a deal for Geldrax, and other general city stuff.\

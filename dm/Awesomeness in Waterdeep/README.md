@@ -386,6 +386,10 @@ Making a deal for Geldrax, and other general city stuff.\
 **Eleasis 4**
 A couple shadows make them take a short rest quickly.
 
+## Session 43 - 26/02/2024
+A little exploring, they go to the captain's grave and find some trrreasurrre.\
+When trying to get to Azrok, they enter a room with solid stone's and get in a fight with a weird creature that can move trough stone.
+
 
 ## Party fund
 | | |

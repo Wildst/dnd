@@ -133,4 +133,9 @@ A long rest prepares them to go on looking for the treasure
 ### Session 18: 19/09/2023
 They find the treasure, where they manage to allow the current Open Lord to come and gather all the gold to distribute it back to the people of the city. They go talk to the Open Lord.
 
+### Session 19: 27/02/2024
+They try to leave, get in a big fight, most of them escape in the end with some help of the Dragon.
+
+
+
 

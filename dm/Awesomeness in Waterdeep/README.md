@@ -380,7 +380,7 @@ Exploring in the city.
 Buying some maps:\
 * []()
 * [Level 3: Sargauth Level](player%20maps/Level%203%20Sargauth%20Level.jpg)\
-* [Level 4: Twisted Caverns]
+* [Level 4: Twisted Caverns](player%20maps/Level%204%20Twisted%20Caverns.png)\
 * [Level 5: Wyllowwood]
 Making a deal for Geldrax, and other general city stuff.\
 **Eleasis 4**
@@ -391,12 +391,14 @@ A little exploring, they go to the captain's grave and find some trrreasurrre.\
 When trying to get to Azrok, they enter a room with solid stone's and get in a fight with a weird creature that can move trough stone.
 
 
-### Session 44: 11/03/2024
+### Session 44 - 11/03/2024
 They find the Alabastar Throne.\
 To get to Azroc, they had to identify themselves, which they did under false names (roxanne = uwu, james = owo).\
 Azroc appears to be blind, and needs a dagger to be able to defend against the drow. If the party manages to get this dagger, they will be rewarded with 1200gp. To help them in their search, 2 bugbear guards and 5 goblin scouts.\
 A mindflayer warned them not to go to skullport, they did decide to go there, where they went back to the Black tankard, killed the guards and knocked the barkeeper uncouncious.
 
+### Session 45 - 25/03/2024
+Some running, some torturing, some talking, some threatening, some talkingd, some walking, some leveling, some new floor to explore.
 
 ## Party fund
 | | |
@@ -414,4 +416,8 @@ The Mad Mage of Undermountain has destroyed himself or been destroyed many times
 The Mad Mage has transformed an entire level of Undermountain into a proving ground for adventurers who seek to reach the deepest layers of the dungeon and the treasures hidden within. At the end of this underground obstacle course waits the greatest challenge of all: Netherskull the Death Tyrant, an undead beholder that hates wizards above all.
 
 
+
+## Missions
+### Retrieve Azrok's Dagger
+* reward: 1200gp
 

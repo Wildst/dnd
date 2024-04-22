@@ -398,7 +398,10 @@ Azroc appears to be blind, and needs a dagger to be able to defend against the d
 A mindflayer warned them not to go to skullport, they did decide to go there, where they went back to the Black tankard, killed the guards and knocked the barkeeper uncouncious.
 
 ### Session 45 - 25/03/2024
-Some running, some torturing, some talking, some threatening, some talkingd, some walking, some leveling, some new floor to explore.
+Some running, some torturing, some talking, some threatening, some talking, some walking, some leveling, some new floor to explore.
+
+### Session 46 - 22/04/2024
+Exploring, new friends, and a couple dangers.
 
 ## Party fund
 | | |
@@ -420,4 +423,13 @@ The Mad Mage has transformed an entire level of Undermountain into a proving gro
 ## Missions
 ### Retrieve Azrok's Dagger
 * reward: 1200gp
+
+### Find the Alabastar Throne
+* Found it, needs to be communicated.
+
+### Find Kressando Rosznar
+* Favor from the sister
+
+### Magic item buyer
+
 

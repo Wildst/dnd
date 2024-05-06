@@ -405,7 +405,8 @@ Exploring, new friends, and a couple dangers.
 
 ### Session 47 - 06/05/2024
 Some exploring, some spider killing, opening a secret passage which is impossible to enter.\
-A drow settlement proposes a temporary, mutually beneficially, alliance. A raft will be offered for a head of either a kua toa, or the water monster.
+A drow settlement proposes a temporary, mutually beneficially, alliance. A raft will be offered for a head of either a kua toa, or the water monster.\
+They go up.
 
 ## Party fund
 | | |

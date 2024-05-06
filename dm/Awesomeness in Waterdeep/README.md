@@ -403,6 +403,10 @@ Some running, some torturing, some talking, some threatening, some talking, some
 ### Session 46 - 22/04/2024
 Exploring, new friends, and a couple dangers.
 
+### Session 47 - 06/05/2024
+Some exploring, some spider killing, opening a secret passage which is impossible to enter.\
+A drow settlement proposes a temporary, mutually beneficially, alliance. A raft will be offered for a head of either a kua toa, or the water monster.
+
 ## Party fund
 | | |
 ---
@@ -431,5 +435,10 @@ The Mad Mage has transformed an entire level of Undermountain into a proving gro
 * Favor from the sister
 
 ### Magic item buyer
+
+### Kill the kua toa or the water monster
+* get a raft
+
+
 
 

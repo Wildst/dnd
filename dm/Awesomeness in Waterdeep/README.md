@@ -408,38 +408,19 @@ Some exploring, some spider killing, opening a secret passage which is impossibl
 A drow settlement proposes a temporary, mutually beneficially, alliance. A raft will be offered for a head of either a kua toa, or the water monster.\
 They go up.
 
-## Party fund
-| | |
----
-dragons | 11
-shards | 5
-nibs | 5
+### Session 48 - 27/05/2024
+TPK
+
+### Session 49 - 03/06/2024: A new beginning
+A party awakens in a mysterious wood in the middle of a dungeon floor, after some decades of being turned into stone. The sky shows the night is falling.\
+After some exploring, some talking trees lead them to the Willow's Tower, she tells them she knows Harvaster, and would like them to get rid of some cloakers nearby.\
+Our adventurers leave us just after entering a building where they could possibly be.
 
 
 ## Rumors
-**Immortal Insanity**
-The Mad Mage of Undermountain has destroyed himself or been destroyed many times, but his demise is always short-lived. Folk say the dungeon cannot exist without him, and so it magically re-creates the archmage whenever he meets his end within its curmbling halls. Each time Halaster returns, less of his sanity remains.
-
-**Death Tyrant**
-The Mad Mage has transformed an entire level of Undermountain into a proving ground for adventurers who seek to reach the deepest layers of the dungeon and the treasures hidden within. At the end of this underground obstacle course waits the greatest challenge of all: Netherskull the Death Tyrant, an undead beholder that hates wizards above all.
 
 
 
 ## Missions
-### Retrieve Azrok's Dagger
-* reward: 1200gp
-
-### Find the Alabastar Throne
-* Found it, needs to be communicated.
-
-### Find Kressando Rosznar
-* Favor from the sister
-
-### Magic item buyer
-
-### Kill the kua toa or the water monster
-* get a raft
-
-
 
 

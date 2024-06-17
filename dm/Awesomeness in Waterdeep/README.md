@@ -2,27 +2,19 @@
 ## The City
 Waterdeep is, by and large, the most civilized city on the Sword Coast. Yet civilized doesn't mean safe, nor does it mean easy to navigate. Many day-to-day elements of life in Waterdeep that residents take for granted are, to new arrivals, a bevy of wonders and dangers not seen in any other settlement within a thousand miles.
 
-## [Puzzles](Tavern)
 
 ## The Heroes
-### Rendar - Rip
-A barbarian like no other. Both enraged and using common sense someone to watch out for.
+### Mario
+Some guy who thinks he's a plumber.
 
-### Ishi Eudamon
-Nothing is what it looks like, this is the best way to discribe a fairy named Ishi. Fast hands raining from above can be deadly regardless of the weather.
+### Yoshi
+A guy who thinks he's a dragon.
 
-### Uwu
-A cute half-elven girl wearing way too much armor, but don't tell her I said this or she might get angwy.
+### Peter Pipeworth
+Some guy with a flute.
 
-### Owo
-The brother of his sister. Makes the world a better and safer place for her singing.
-
-### Dunga Gupta
-A priest of a god that no one knows (yet), but considering the amount of effort that's put into it, this will change soon...\
-If it's better this way, that's a question for another day.
-
-### Nowhere
-Even though he's Nowhere, he tends to be everywhere he needs to be. Seeing and feeling more than the common people see and feel... The dice gods seem to be font of him!
+### Gravas
+A guy that thinks falling is overrated.
 
 
 ## Their Story
@@ -415,6 +407,9 @@ TPK
 A party awakens in a mysterious wood in the middle of a dungeon floor, after some decades of being turned into stone. The sky shows the night is falling.\
 After some exploring, some talking trees lead them to the Willow's Tower, she tells them she knows Harvaster, and would like them to get rid of some cloakers nearby.\
 Our adventurers leave us just after entering a building where they could possibly be.
+
+### Session 50 - 17/06/2024
+*CLOAKERS DIE!!*, and they are gone. Willow is happy and will show the way to the next floors.
 
 
 ## Rumors

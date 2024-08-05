@@ -411,6 +411,9 @@ Our adventurers leave us just after entering a building where they could possibl
 ### Session 50 - 17/06/2024
 *CLOAKERS DIE!!*, and they are gone. Willow is happy and will show the way to the next floors.
 
+### Session 51 - 05/08/2024
+A dangerous road to lvl 6 is followed, some weird creatures floats to its death and some more rooms get explored.
+
 
 ## Rumors
 

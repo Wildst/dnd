@@ -404,6 +404,7 @@ They go up.
 TPK
 
 ### Session 49 - 03/06/2024: A new beginning
+**LVL 8**\
 A party awakens in a mysterious wood in the middle of a dungeon floor, after some decades of being turned into stone. The sky shows the night is falling.\
 After some exploring, some talking trees lead them to the Willow's Tower, she tells them she knows Harvaster, and would like them to get rid of some cloakers nearby.\
 Our adventurers leave us just after entering a building where they could possibly be.
@@ -414,6 +415,16 @@ Our adventurers leave us just after entering a building where they could possibl
 ### Session 51 - 05/08/2024
 A dangerous road to lvl 6 is followed, some weird creatures floats to its death and some more rooms get explored.
 
+### Session 52 - 26/08/2024
+Some exploring, and a big fight with some not so voluntary actions.
+
+### Session 53 - 09/09/2024
+Some more exploring, a couple duergar have some trouble with a clay golem, in exchange for defeating this golem they offer safe-ish passage to the next floor. After defeating this golem, they investigate the door and discover a message in dwarvish:
+    It is the will of the Keeper of Secrets under the Mountain that only the hand of the king may open these doors. Let all who enter gaze upon the heart of Melairbode and know the true power of dwarvenkind.
+Touching the door spawns a big hand that hits hard, this happens again if the door is touched again.\
+After some good sleep, the party feels stronger.\
+**LVL 9**
+A little bit further, they found a portal, opened it and went trought. What seemed to be a dead end at first, revealed a couple secret doors later on, behind them are some surprised people.
 
 ## Rumors
 

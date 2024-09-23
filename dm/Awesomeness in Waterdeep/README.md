@@ -426,6 +426,11 @@ After some good sleep, the party feels stronger.\
 **LVL 9**
 A little bit further, they found a portal, opened it and went trought. What seemed to be a dead end at first, revealed a couple secret doors later on, behind them are some surprised people.
 
+### Session 54 - 23/09/2024
+The people aren't angry, but lot really friendly either, so they decide to just go back.
+Some more exploring and they find a gate that doesn't open, and a fake burial place. After passing a dancefloor, a mage attacks on sight. Seems like it's not a real mage, but a shapeshifter, who finally gets defeated.
+
+
 ## Rumors
 
 

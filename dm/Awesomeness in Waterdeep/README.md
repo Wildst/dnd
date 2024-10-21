@@ -430,6 +430,10 @@ A little bit further, they found a portal, opened it and went trought. What seem
 The people aren't angry, but lot really friendly either, so they decide to just go back.
 Some more exploring and they find a gate that doesn't open, and a fake burial place. After passing a dancefloor, a mage attacks on sight. Seems like it's not a real mage, but a shapeshifter, who finally gets defeated.
 
+### Session 55 - 21/10/2024
+Some exploring that do stuff, some cool contraptions, and a couple dangerous creatures almost killing Peter...
+
+
 
 ## Rumors
 

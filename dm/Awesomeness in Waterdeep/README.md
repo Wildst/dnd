@@ -433,6 +433,9 @@ Some more exploring and they find a gate that doesn't open, and a fake burial pl
 ### Session 55 - 21/10/2024
 Some exploring that do stuff, some cool contraptions, and a couple dangerous creatures almost killing Peter...
 
+### Session 56 - 18/11/2024
+They decide to go back and attack, it was a close figth, but they won.
+
 
 
 ## Rumors

@@ -436,11 +436,16 @@ Some exploring that do stuff, some cool contraptions, and a couple dangerous cre
 ### Session 56 - 18/11/2024
 They decide to go back and attack, it was a close figth, but they won.
 
-
+### Session 57 - 13/01/2024
+A portal brings them back to floor 3, where they arrive in a town led by a hobgoblin named Azrok. They meet Preeta Kreepa, a mage who knows more about the dungeon itself...
+The end up at the entrance of Skullport.
 
 ## Rumors
+### Dark Elf Manace
+Recent conflicts in Menzoberranzan have left weakened drow houses fearing for their future. Drow are coming to undermountain. in droves to carve out sanctuaries for one house or another. Halaster can't be happy to see them return in force. but who knows? Maybe the Mad Mage orchestrated the upheaval to bring the dark elves back for reasons beyond the comprehension of the sane.
 
-
+### Arcturiadoom
+One of Halaster's apprentices was a human transmuter named Arcturia, who created all manner of new monsters and often made herself the subject of her own horrid magical transformations. She claimed an entire level of Undermountain as her lair and polymorphed prisoners into monsters to guard it. It's likely that Arcturia resides in Undermountain still, in one form or another.
 
 ## Missions
 

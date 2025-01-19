@@ -49,7 +49,6 @@ Iron:
 
 
 ## Quests:
-Find Beeps items: Behind the rack with silverware under the mountain
 
 
 
@@ -75,3 +74,5 @@ AC 13
 ## Books:
 * Stephen Bling: The fog
 * GRR Walking: The band of the bracelet
+
+

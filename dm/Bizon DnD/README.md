@@ -59,3 +59,13 @@ Karerarera zijn geduld raakt op en neemt de koevoet in eigen handen. De deur (op
 Net als ook Andre en Rismareth het moeilijk krijgen, is er plots een grote Kokkin die een dringende vraag stelt aan de overige Orcs (die duidelijk vinden dat het niet het moment is om te praten): "PUDDING!".\
 Aangezien de reactie niet bepaald vriendelijk is, barst Helga (de Kokkin) uit in een woedeaanval, waarna Rismareth gebruik maakt van de afleiding om het gevecht te winnen.\
 Na het gebouw te verkennen en een kaart en een paar boeken te stelen besluiten ze om te gaan slapen in een aantal bedden in het gebouw.
+
+### 22/05/2024 - Session 8
+Na het ontwaken besluiten ze nog eens te gaan zoeken naar geheime kamers, in een geheime kamer vinden ze een mooie mantel(cloak of billowing), en een immovable rod.
+
+Ze gaan terug naar Falcon's hunting lodge, blijven er een nachtje slapen en gaan terug naar Phandalin.
+Daar aangekomen doen ze wat inkopen in de general store, blijkbaar kan niet iedereen even goed tegen alcohol. Terwijl Lillyputter KO ligt van teveel ale te drinken, gaan Andre en Rismareth de reward gaan ophalen en naar de taverne.
+
+De volgende ochtend maken ze een korte stop in de Lionshield Coster, en bestuderen het questboard. Ze besluiten te gaan zoeken naar het Dragon Slayer Sword.
+Onderweg kamperen ze langs de High Road, op deze grote weg komen ze regelmatig patrouillerende guards tegen.
+Eenmaal aangekomen op de plaats delict, merken ze op dat er vreemde grote stenen op een heuvelrug staan. Nadere inspectie onthult een smalle gang de berg in. Ze komen aan in het midden van een gangenstelsel, waar ze elk een andere kant op gaan verkennen. Bij het verkennen van deze gang merken ze wat merkwaardige lichtjes op. Terwijl Lillyputter probeert een sarcofaag open te doen, valt Andre in een val vlakbij zo'n lichtje. De anderen komen hem te hulp.

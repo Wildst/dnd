@@ -2,27 +2,19 @@
 ## The City
 Waterdeep is, by and large, the most civilized city on the Sword Coast. Yet civilized doesn't mean safe, nor does it mean easy to navigate. Many day-to-day elements of life in Waterdeep that residents take for granted are, to new arrivals, a bevy of wonders and dangers not seen in any other settlement within a thousand miles.
 
-## [Puzzles](Tavern)
 
 ## The Heroes
-### Rendar - Rip
-A barbarian like no other. Both enraged and using common sense someone to watch out for.
+### Mario
+Some guy who thinks he's a plumber.
 
-### Ishi Eudamon
-Nothing is what it looks like, this is the best way to discribe a fairy named Ishi. Fast hands raining from above can be deadly regardless of the weather.
+### Yoshi
+A guy who thinks he's a dragon.
 
-### Uwu
-A cute half-elven girl wearing way too much armor, but don't tell her I said this or she might get angwy.
+### Peter Pipeworth
+Some guy with a flute.
 
-### Owo
-The brother of his sister. Makes the world a better and safer place for her singing.
-
-### Dunga Gupta
-A priest of a god that no one knows (yet), but considering the amount of effort that's put into it, this will change soon...\
-If it's better this way, that's a question for another day.
-
-### Nowhere
-Even though he's Nowhere, he tends to be everywhere he needs to be. Seeing and feeling more than the common people see and feel... The dice gods seem to be font of him!
+### Gravas
+A guy that thinks falling is overrated.
 
 
 ## Their Story
@@ -380,7 +372,7 @@ Exploring in the city.
 Buying some maps:\
 * []()
 * [Level 3: Sargauth Level](player%20maps/Level%203%20Sargauth%20Level.jpg)\
-* [Level 4: Twisted Caverns]
+* [Level 4: Twisted Caverns](player%20maps/Level%204%20Twisted%20Caverns.png)\
 * [Level 5: Wyllowwood]
 Making a deal for Geldrax, and other general city stuff.\
 **Eleasis 4**
@@ -391,27 +383,70 @@ A little exploring, they go to the captain's grave and find some trrreasurrre.\
 When trying to get to Azrok, they enter a room with solid stone's and get in a fight with a weird creature that can move trough stone.
 
 
-### Session 44: 11/03/2024
+### Session 44 - 11/03/2024
 They find the Alabastar Throne.\
 To get to Azroc, they had to identify themselves, which they did under false names (roxanne = uwu, james = owo).\
 Azroc appears to be blind, and needs a dagger to be able to defend against the drow. If the party manages to get this dagger, they will be rewarded with 1200gp. To help them in their search, 2 bugbear guards and 5 goblin scouts.\
 A mindflayer warned them not to go to skullport, they did decide to go there, where they went back to the Black tankard, killed the guards and knocked the barkeeper uncouncious.
 
+### Session 45 - 25/03/2024
+Some running, some torturing, some talking, some threatening, some talking, some walking, some leveling, some new floor to explore.
 
-## Party fund
-| | |
----
-dragons | 11
-shards | 5
-nibs | 5
+### Session 46 - 22/04/2024
+Exploring, new friends, and a couple dangers.
 
+### Session 47 - 06/05/2024
+Some exploring, some spider killing, opening a secret passage which is impossible to enter.\
+A drow settlement proposes a temporary, mutually beneficially, alliance. A raft will be offered for a head of either a kua toa, or the water monster.\
+They go up.
+
+### Session 48 - 27/05/2024
+TPK
+
+### Session 49 - 03/06/2024: A new beginning
+**LVL 8**\
+A party awakens in a mysterious wood in the middle of a dungeon floor, after some decades of being turned into stone. The sky shows the night is falling.\
+After some exploring, some talking trees lead them to the Willow's Tower, she tells them she knows Harvaster, and would like them to get rid of some cloakers nearby.\
+Our adventurers leave us just after entering a building where they could possibly be.
+
+### Session 50 - 17/06/2024
+*CLOAKERS DIE!!*, and they are gone. Willow is happy and will show the way to the next floors.
+
+### Session 51 - 05/08/2024
+A dangerous road to lvl 6 is followed, some weird creatures floats to its death and some more rooms get explored.
+
+### Session 52 - 26/08/2024
+Some exploring, and a big fight with some not so voluntary actions.
+
+### Session 53 - 09/09/2024
+Some more exploring, a couple duergar have some trouble with a clay golem, in exchange for defeating this golem they offer safe-ish passage to the next floor. After defeating this golem, they investigate the door and discover a message in dwarvish:
+    It is the will of the Keeper of Secrets under the Mountain that only the hand of the king may open these doors. Let all who enter gaze upon the heart of Melairbode and know the true power of dwarvenkind.
+Touching the door spawns a big hand that hits hard, this happens again if the door is touched again.\
+After some good sleep, the party feels stronger.\
+**LVL 9**
+A little bit further, they found a portal, opened it and went trought. What seemed to be a dead end at first, revealed a couple secret doors later on, behind them are some surprised people.
+
+### Session 54 - 23/09/2024
+The people aren't angry, but lot really friendly either, so they decide to just go back.
+Some more exploring and they find a gate that doesn't open, and a fake burial place. After passing a dancefloor, a mage attacks on sight. Seems like it's not a real mage, but a shapeshifter, who finally gets defeated.
+
+### Session 55 - 21/10/2024
+Some exploring that do stuff, some cool contraptions, and a couple dangerous creatures almost killing Peter...
+
+### Session 56 - 18/11/2024
+They decide to go back and attack, it was a close figth, but they won.
+
+### Session 57 - 13/01/2024
+A portal brings them back to floor 3, where they arrive in a town led by a hobgoblin named Azrok. They meet Preeta Kreepa, a mage who knows more about the dungeon itself...
+The end up at the entrance of Skullport.
 
 ## Rumors
-**Immortal Insanity**
-The Mad Mage of Undermountain has destroyed himself or been destroyed many times, but his demise is always short-lived. Folk say the dungeon cannot exist without him, and so it magically re-creates the archmage whenever he meets his end within its curmbling halls. Each time Halaster returns, less of his sanity remains.
+### Dark Elf Manace
+Recent conflicts in Menzoberranzan have left weakened drow houses fearing for their future. Drow are coming to undermountain. in droves to carve out sanctuaries for one house or another. Halaster can't be happy to see them return in force. but who knows? Maybe the Mad Mage orchestrated the upheaval to bring the dark elves back for reasons beyond the comprehension of the sane.
 
-**Death Tyrant**
-The Mad Mage has transformed an entire level of Undermountain into a proving ground for adventurers who seek to reach the deepest layers of the dungeon and the treasures hidden within. At the end of this underground obstacle course waits the greatest challenge of all: Netherskull the Death Tyrant, an undead beholder that hates wizards above all.
+### Arcturiadoom
+One of Halaster's apprentices was a human transmuter named Arcturia, who created all manner of new monsters and often made herself the subject of her own horrid magical transformations. She claimed an entire level of Undermountain as her lair and polymorphed prisoners into monsters to guard it. It's likely that Arcturia resides in Undermountain still, in one form or another.
 
+## Missions
 
 

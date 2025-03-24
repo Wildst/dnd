@@ -440,6 +440,15 @@ They decide to go back and attack, it was a close figth, but they won.
 A portal brings them back to floor 3, where they arrive in a town led by a hobgoblin named Azrok. They meet Preeta Kreepa, a mage who knows more about the dungeon itself...
 The end up at the entrance of Skullport.
 
+
+### Session 58 - 10/03/2024:
+A little talk in skullport and some debate about what to do next. They decide to go on and find another gate leading them to what seems to be some kind of black, spider-shaped fortress.
+
+
+### Session 59 - 24/03/2024
+Some exploring in a misty maze, a little light and some minotaurs.
+
+
 ## Rumors
 ### Dark Elf Manace
 Recent conflicts in Menzoberranzan have left weakened drow houses fearing for their future. Drow are coming to undermountain. in droves to carve out sanctuaries for one house or another. Halaster can't be happy to see them return in force. but who knows? Maybe the Mad Mage orchestrated the upheaval to bring the dark elves back for reasons beyond the comprehension of the sane.

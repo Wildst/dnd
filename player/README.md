@@ -7,3 +7,5 @@ This is where I will put some notes I took as a player in someone elses campaign
 [Nullencrad](Nullencrad) - Some big campaign
 
 [Dragon of IceSpire Peak](dragon-of-icespire-peak) - Crazyness by Marvin
+
+[Vecna's Reign](Vecnas-Reign) - More crazyness by Marvin
